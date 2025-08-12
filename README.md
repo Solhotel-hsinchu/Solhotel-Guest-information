@@ -309,7 +309,7 @@
 ▪ Hsinchu (Nanliao Fishing Harbor) 17 km Coastal Scenic Area：<a href="https://www.google.com/maps?q=新竹17公里海岸風景區" target="_blank">Map</a><br>
 ▪ Xiangshan Wetland Crab Viewing Trail：<a href="https://www.google.com/maps?q=香山濕地賞蟹步道" target="_blank">Map</a><br>
 ▪ Fengqing Coast：<a href="https://www.google.com/maps?q=風情海岸" target="_blank">Map</a><br>
-▪ Hsinchu City Travel Info：<a href="https://eng.taiwan.net.tw/m1.aspx?sno=0002109" target="_blank">More Info</a>`
+★ Hsinchu City Travel Info：<a href="https://eng.taiwan.net.tw/m1.aspx?sno=0002109" target="_blank">More Info</a>`
         },
         {
           q: "Temple attractions near the hotel",
