@@ -343,7 +343,7 @@
 ▪ Hsinchu City Hall Ubike Station: <a href="https://www.google.com/maps?q=YouBike 新竹市政府" target="_blank">Map</a>`
         },
          {
-          q: "Taiwan Railway Corp. (TRC)🚆<br>・Taoyuan Metro・Airport MRT🚆<br>・Taiwan High Speed Rail(HSR)🚄<br>・Taoyuan International Airport(TPE)✈️<br>・Taipei Songshan Airport(TSA)✈️",
+          q: "Taiwan Railway Corp. (TRC)🚆<br>・Airport MRT🚆<br>・High Speed Rail(HSR)🚄<br>・Taoyuan International Airport(TPE)✈️<br>・Taipei Songshan Airport(TSA)✈️",
           a: `
 ▪ Taiwan Railway(TRC) ：<a href="https://tip.railway.gov.tw/tra-tip-web/tip?lang=EN_US" target="_blank"> official website</a><br>
 ▪ Taiwan High Speed Rail(HSR)：<a href="https://en.thsrc.com.tw/"_blank"> official website</a><br>
