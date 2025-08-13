@@ -165,7 +165,7 @@
 ▪ 新竹大遠百：<a href="https://www.google.com/maps?q=新竹大遠百" target="_blank">地圖</a>`
         },
         {
-          q: "鄰近YouBike單車借用站",
+          q: "鄰近YouBike單車借用站🚴",
           a: `
 ⚠️YouBike使用說明：<a href="https://www.youbike.com.tw/region/main/" target="_blank"> YouBike官網</a><br>
 ▪ 新竹市政府YouBike站 <a href="https://www.google.com/maps?q=YouBike 新竹市政府" target="_blank">地圖</a>`
@@ -337,7 +337,7 @@
 ▪ Far Eastern Department Store Hsinchu: <a href="https://www.google.com/maps?q=新竹大遠百" target="_blank">Map</a>`
         },
         {
-          q: "Nearby YouBike rental station",
+          q: "Nearby YouBike rental station🚴",
           a: `
          ⚠️Before signing up, please prepare the following. <a href="https://en.youbike.com.tw/region/main/register/" target="_blank"> YouBike official website</a><br>
 ▪ Hsinchu City Hall Ubike Station: <a href="https://www.google.com/maps?q=YouBike 新竹市政府" target="_blank">Map</a>`
@@ -503,7 +503,7 @@
 ▪ 新竹大遠百：<a href="https://www.google.com/maps?q=新竹大遠百" target="_blank">地図</a>`
         },
         {
-          q: "近くYouBikeレンタルステーション",
+          q: "近くYouBikeレンタルステーション🚴",
           a: `
           ⚠️ご登録の前に、以下のものをご準備ください。<a href="https://en.youbike.com.tw/region/main/register/" target="_blank"> YouBike公式ウェブサイト-英語のみ</a><br>
 ▪ 新竹市政府Ubikeステーション：<a href="https://www.google.com/maps?q=YouBike 新竹市政府" target="_blank">地図</a>`
