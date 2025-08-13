@@ -171,7 +171,7 @@
 ▪ 新竹市政府YouBike站 <a href="https://www.google.com/maps?q=YouBike 新竹市政府" target="_blank">地圖</a>`
         },
          {
-          q: "台灣鐵路・高速鐵路・機場捷運🚄<br>・桃園機場✈️・松山機場✈️　",
+          q: "台灣鐵路・高速鐵路・機場捷運<br>・桃園機場✈️・松山機場✈️　",
           a: `
 ▪ 台灣鐵路：<a href="https://www.railway.gov.tw/tra-tip-web/tip?lang=ZH_TW" target="_blank"> 台鐵官網</a><br>
 ▪ 台灣高鐵：<a href="https://www.thsrc.com.tw/" target="_blank"> 高鐵官網</a><br>
@@ -343,10 +343,11 @@
 ▪ Hsinchu City Hall Ubike Station: <a href="https://www.google.com/maps?q=YouBike 新竹市政府" target="_blank">Map</a>`
         },
          {
-          q: "Taiwan Railway Corp. (TRC)🚄<br>・Taiwan High Speed Rail(HSR)🚄<br>・Taoyuan International Airport(TPE)✈️<br>・Taipei Songshan Airport(TSA)✈️",
+          q: "Taiwan Railway Corp. (TRC)🚆<br>・Taoyuan Metro・Airport MRT🚆<br>・Taiwan High Speed Rail(HSR)🚄<br>・Taoyuan International Airport(TPE)✈️<br>・Taipei Songshan Airport(TSA)✈️",
           a: `
 ▪ Taiwan Railway(TRC) ：<a href="https://tip.railway.gov.tw/tra-tip-web/tip?lang=EN_US" target="_blank"> official website</a><br>
 ▪ Taiwan High Speed Rail(HSR)：<a href="https://en.thsrc.com.tw/"_blank"> official website</a><br>
+▪ Taoyuan Metro・Airport MRT：<a href="https://www.tymetro.com.tw/tymetro-new/en/index.php" target="_blank"> official website</a><br>
 ▪ Taoyuan International Airport(TPE)：<a href="https://www.taoyuan-airport.com/?lang=en" target="_blank"> official website</a><br>
 ▪ Taipei Songshan Airport(TSA)：<a href="https://www.tsa.gov.tw/?id=ef81d612-6ca0-4e0f-9459-30bfb8c9523f&culture=2" target="_blank">official website</a>`
         },
