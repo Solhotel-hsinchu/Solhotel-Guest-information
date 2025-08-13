@@ -346,7 +346,7 @@
           a: `
 ▪ Taiwan Railway：<a href="https://tip.railway.gov.tw/tra-tip-web/tip?lang=EN_US" target="_blank"> official website</a><br>
 ▪ Taiwan High Speed Rail：<a href="https://en.thsrc.com.tw/"_blank"> official website</a><br>
-▪ Taoyuan International Airport：<a href="https://www.taoyuan-airport.com/" target="_blank"> official website</a><br>
+▪ Taoyuan International Airport：<a href="https://www.taoyuan-airport.com/?lang=en" target="_blank"> official website</a><br>
 ▪ Taipei Songshan Airport：<a href="https://www.tsa.gov.tw/?id=ef81d612-6ca0-4e0f-9459-30bfb8c9523f&culture=2" target="_blank">official website</a>`
         },
         {
@@ -505,6 +505,14 @@
           a: `
           ⚠️ご登録の前に、以下のものをご準備ください。<a href="https://en.youbike.com.tw/region/main/register/" target="_blank"> YouBike公式ウェブサイト-英語のみ</a><br>
 ▪ 新竹市政府Ubikeステーション：<a href="https://www.google.com/maps?q=YouBike 新竹市政府" target="_blank">地図</a>`
+        },
+         {
+          q: "台湾鉄路株式会社、高鐵、桃園機場、松山機場",
+          a: `
+▪ 台湾鉄路株式会社：<a href="https://tip.railway.gov.tw/tra-tip-web/tip?lang=JA_JP" target="_blank"> 公式ウェブサイト</a><br>
+▪ 台湾高速鉄道：<a href="https://jp.thsrc.com.tw/ArticleContent/07a7dfcc-1910-485f-a296-699ff11efb46"_blank"> 公式ウェブサイト</a><br>
+▪ 桃園國際機場：<a href="https://www.taoyuan-airport.com/?lang=jp" target="_blank"> 公式ウェブサイト</a><br>
+▪ 台北松山機場：<a href="https://www.tsa.gov.tw/?culture=3"_blank">公式ウェブサイト</a>`
         },
         {
           q: "近隣のおすすめ朝食店",
