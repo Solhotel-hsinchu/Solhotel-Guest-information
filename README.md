@@ -513,7 +513,7 @@
           a: `
 ▪ 台湾鉄路株式会社(TRC) ：<a href="https://tip.railway.gov.tw/tra-tip-web/tip?lang=JA_JP" target="_blank"> 公式ウェブサイト</a><br>
 ▪ 台湾高速鉄道(HSR)：<a href="https://jp.thsrc.com.tw/ArticleContent/07a7dfcc-1910-485f-a296-699ff11efb46"_blank"> 公式ウェブサイト</a><br>
-▪ 桃園MRT・桃園空港MRT：<a href="https://www.tymetro.com.tw/tymetro-new/tw/index.php" target="_blank"> 公式ウェブサイト</a><br>
+▪ 桃園MRT・桃園空港MRT：<a href="https://www.tymetro.com.tw/tymetro-new/jp/index.php" target="_blank"> 公式ウェブサイト</a><br>
 ▪ 桃園國際機場(TPE)：<a href="https://www.taoyuan-airport.com/?lang=jp" target="_blank"> 公式ウェブサイト</a><br>
 ▪ 台北松山機場(TSA)：<a href="https://www.tsa.gov.tw/?culture=3"_blank">公式ウェブサイト</a>`
         },
