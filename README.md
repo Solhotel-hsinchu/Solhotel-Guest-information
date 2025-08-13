@@ -548,7 +548,7 @@
         {
           q: "西洋料理店のおすすめは？",
           a: `
-▪ 冪2 La Miette キッチン：<a href="https://maps.example.com/western1" target="_blank">地図</a><br>
+▪ 冪2 La Miette キッチン：<a href="https://www.google.com/maps?q=冪2 La Miette Kitchen" target="_blank">地図</a><br>
 ▪ TABLE JOE キッチン：<a href="https://www.google.com/maps?q=TABLE JOE 喬桌子廚房" target="_blank">地図</a><br>
 ▪ スタンリーアメリカンステーキハウス：<a href="https://maps.example.com/western3" target="_blank">地図</a><br>
 ▪ 金色三麥 新竹巨城店 PARK15：<a href="https://www.google.com/maps?q=金色三麥 新竹巨城店PARK15" target="_blank">地図</a>`
