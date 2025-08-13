@@ -171,7 +171,7 @@
 ▪ 新竹市政府YouBike站 <a href="https://www.google.com/maps?q=YouBike 新竹市政府" target="_blank">地圖</a>`
         },
          {
-          q: "台鐵、高鐵、桃園機場✈️　、松山機場✈️　",
+          q: "台鐵・高鐵<br>・桃園機場✈️・松山機場✈️　",
           a: `
 ▪ 台灣鐵路：<a href="https://www.railway.gov.tw/tra-tip-web/tip?lang=ZH_TW" target="_blank"> 台鐵官網</a><br>
 ▪ 台灣高鐵：<a href="https://www.thsrc.com.tw/" target="_blank"> 高鐵官網</a><br>
@@ -342,7 +342,7 @@
 ▪ Hsinchu City Hall Ubike Station: <a href="https://www.google.com/maps?q=YouBike 新竹市政府" target="_blank">Map</a>`
         },
          {
-          q: "Taiwan Railway Corp. (TRC)・Taiwan High Speed Rail(HSR)・Taoyuan International Airport(TPE)✈️・Taipei Songshan Airport(TSA)✈️",
+          q: "Taiwan Railway Corp. (TRC)<br>・Taiwan High Speed Rail(HSR)<br>・Taoyuan International Airport(TPE)✈️<br>・Taipei Songshan Airport(TSA)✈️",
           a: `
 ▪ Taiwan Railway(TRC) ：<a href="https://tip.railway.gov.tw/tra-tip-web/tip?lang=EN_US" target="_blank"> official website</a><br>
 ▪ Taiwan High Speed Rail(HSR)：<a href="https://en.thsrc.com.tw/"_blank"> official website</a><br>
@@ -361,9 +361,9 @@
           a: `
 ▪ Starbucks - Hsinchu State Library Store: <a href="https://www.google.com/maps?q=星巴克-新竹州圖門市" target="_blank">Map</a><br>
 ▪ Jiumu Coffee: <a href="https://www.google.com/maps?q=九幕咖啡" target="_blank">Map</a><br>
-▪ Spring Room SPRING POOL GLASS STUDIO + The POOL：<a href="https://www.google.com/maps?q=春室 SPRING POOL GLASS STUDIO + The POOL" target="_blank">地圖</a><br>
-▪ Louisa Coffee (Hsinchu Park Branch)：<a href="https://www.google.com/maps?q=Louisa Coffee 路易莎咖啡  新竹東區公園路" target="_blank">地圖</a><br>
-▪ Ink Coffee：<a href="https://www.google.com/maps?q=墨咖啡 INK COFFEE" target="_blank">地圖</a><br>
+▪ Spring Room SPRING POOL GLASS STUDIO + The POOL：<a href="https://www.google.com/maps?q=春室 SPRING POOL GLASS STUDIO + The POOL" target="_blank">Map</a><br>
+▪ Louisa Coffee (Hsinchu Park Branch)：<a href="https://www.google.com/maps?q=Louisa Coffee 路易莎咖啡  新竹東區公園路" target="_blank">Map</a><br>
+▪ Ink Coffee：<a href="https://www.google.com/maps?q=墨咖啡 INK COFFEE" target="_blank">Map</a><br>
 ▪ Manman Delicious: <a href="https://www.google.com/maps?q=饅饅好食" target="_blank">Map</a><br>
 ▪ Hundred Flavors (Sanmin Store): <a href="https://www.google.com/maps?q=一百種味道(三民店)" target="_blank">Map</a><br>
 ▪ Summer Coffee: <a href="https://www.google.com/maps?q=夏.咖啡" target="_blank">Map</a><br>
