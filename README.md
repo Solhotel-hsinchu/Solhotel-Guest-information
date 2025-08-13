@@ -171,7 +171,7 @@
 ▪ 新竹市政府YouBike站 <a href="https://www.google.com/maps?q=YouBike 新竹市政府" target="_blank">地圖</a>`
         },
          {
-          q: "台鐵、高鐵、桃園機場、松山機場",
+          q: "台鐵、高鐵、桃園機場✈️　、松山機場✈️　",
           a: `
 ▪ 台灣鐵路：<a href="https://www.railway.gov.tw/tra-tip-web/tip?lang=ZH_TW" target="_blank"> 台鐵官網</a><br>
 ▪ 台灣高鐵：<a href="https://www.thsrc.com.tw/" target="_blank"> 高鐵官網</a><br>
