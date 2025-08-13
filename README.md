@@ -234,7 +234,7 @@
 ▪ 大阪燒肉 燒魂Yakikon：<a href="https://www.google.com/maps?q=大阪燒肉 燒魂Yakikon 新竹市東區" target="_blank">地圖</a>`
         },
         {
-          q: "素食餐廳推薦🥗？",
+          q: "素食🥗餐廳推薦？",
           a: `
 ▪ 果庭蔬食廚房：<a href="https://www.google.com/maps?q=果庭蔬食廚房" target="_blank">地圖</a><br>
 ▪ 森活原素 V-Element 蔬食餐廳：<a href="https://www.google.com/maps?q=森活原素 V-Element 蔬食餐廳" target="_blank">地圖</a><br>
@@ -270,7 +270,7 @@
 ▪ 覓雪Mixshare手作雪花冰：<a href="https://www.google.com/maps?q=覓雪Mixshare手作雪花冰" target="_blank">地圖</a>`
         },
         {
-          q: "伴手禮推薦？",
+          q: "伴手禮🎁推薦？",
           a: `
 ▪ 福源花生醬：<a href="https://www.google.com/maps?q=福源花生醬 新竹市東區東大路一段" target="_blank">地圖</a><br>
 ▪ 新復珍商行(竹塹餅)：<a href="https://www.google.com/maps?q=新復珍商行" target="_blank">地圖</a><br>
@@ -401,7 +401,7 @@
 ▪ Osaka Yakiniku Yakikon: <a href="https://www.google.com/maps?q=大阪燒肉 燒魂Yakikon 新竹市東區" target="_blank">Map</a>`
         },
         {
-          q: "Vegetarian restaurant recommendations🥗?",
+          q: "Vegetarian🥗 restaurant recommendations?",
           a: `
 ▪ Guoting Vegetarian Kitchen：<a href="https://www.google.com/maps?q=果庭蔬食廚房" target="_blank">Map</a><br>
 ▪ V-Element Vegetarian Kitchen：<a href="https://www.google.com/maps?q=森活原素 V-Element 蔬食餐廳" target="_blank">Map</a><br>
@@ -437,7 +437,7 @@
 ▪ Mixshare Handmade Shaved Ice: <a href="https://www.google.com/maps?q=覓雪Mixshare手作雪花冰" target="_blank">Map</a>`
         },
         {
-          q: "Souvenir recommendations?",
+          q: "Souvenir🎁 recommendations?",
           a: `
 ▪ Fuyuan Peanut Butter: <a href="https://www.google.com/maps?q=福源花生醬 新竹市東區東大路一段" target="_blank">Map</a><br>
 ▪ Xin Fuzhen-Zhujian Cake: <a href="https://www.google.com/maps?q=新復珍商行" target="_blank">Map</a><br>
@@ -569,7 +569,7 @@
 ▪ 大阪焼肉 燒魂Yakikon：<a href="https://www.google.com/maps?q=大阪燒肉 燒魂Yakikon 新竹市東區"" target="_blank">地図</a>`
         },
         {
-          q: "ベジタリアンレストランのおすすめは🥗？",
+          q: "ベジタリアン🥗レストランのおすすめは？",
           a: `
 ▪ 果庭ベジタリアンキッチン：<a href="https://www.google.com/maps?q=果庭蔬食廚房" target="_blank">地図</a><br>
 ▪  V-Element ベジタリアンレストラン：<a href="https://www.google.com/maps?q=森活原素 V-Element 蔬食餐廳" target="_blank">地図</a><br>
@@ -605,7 +605,7 @@
 ▪ ミックスシェア手作りかき氷：<a href="https://www.google.com/maps?q=覓雪Mixshare手作雪花冰"_blank">地図</a>`
         },
         {
-          q: "お土産のおすすめは？",
+          q: "お土産🎁のおすすめは？",
           a: `
 ▪ 福源ピーナッツバター：<a href="https://www.google.com/maps?q=福源花生醬 新竹市東區東大路一段" target="_blank">地図</a><br>
 ▪ 新復珍商行-竹塹餅：<a href="https://www.google.com/maps?q=新復珍商行"_blank">地図</a><br>
