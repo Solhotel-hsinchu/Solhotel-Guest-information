@@ -459,7 +459,7 @@
 ▪ 東門市場：<a href="https://www.google.com/maps?q=東門市場" target="_blank">地図</a><br>
 ▪ 新竹市政府：<a href="https://www.google.com/maps?q=新竹市政府" target="_blank">地図</a><br>
 ▪ 新竹市消防博物館：<a href="https://www.google.com/maps?q=新竹市消防博物館" target="_blank">地図</a><br>
-▪ 国立新竹生活美学館（旧新竹公会堂）：<a href="https://www.google.com/maps?q=國立新竹生活美學館（原新竹公會堂）" target="_blank">Map</a><br>
+▪ 国立新竹生活美学館（旧新竹公会堂）：<a href="https://www.google.com/maps?q=國立新竹生活美學館（原新竹公會堂）" target="_blank">地図</a><br>
 ▪ 新竹動物園：<a href="https://www.google.com/maps?q=新竹動物園" target="_blank">地図</a><br>
 ▪ 新竹公園：<a href="https://www.google.com/maps?q=新竹公園"_blank">地図</a>`
         },
