@@ -175,7 +175,7 @@
           a: `
 ▪ 台灣鐵路：<a href="https://www.railway.gov.tw/tra-tip-web/tip?lang=ZH_TW" target="_blank"> 台鐵官網</a><br>
 ▪ 台灣高鐵：<a href="https://www.thsrc.com.tw/" target="_blank"> 高鐵官網</a><br>
-▪ 桃園機場：<a href="https://www.taoyuan-airport.com/" target="_blank"> 桃機官網</a><br>
+▪ 桃園國際機場：<a href="https://www.taoyuan-airport.com/" target="_blank"> 桃機官網</a><br>
 ▪ 台北松山機場：<a href="https://www.tsa.gov.tw/" target="_blank">松山機場</a>`
         },
          {
@@ -340,6 +340,14 @@
           a: `
          ⚠️Before signing up, please prepare the following. <a href="https://en.youbike.com.tw/region/main/register/" target="_blank"> YouBike official website</a><br>
 ▪ Hsinchu City Hall Ubike Station: <a href="https://www.google.com/maps?q=YouBike 新竹市政府" target="_blank">Map</a>`
+        },
+         {
+          q: "Taiwan Railway Corp. (TRC) 、Taiwan High Speed Rail(HSR)、Taoyuan International Airport、Taipei Songshan Airport",
+          a: `
+▪ Taiwan Railway：<a href="https://tip.railway.gov.tw/tra-tip-web/tip?lang=EN_US" target="_blank"> official website</a><br>
+▪ Taiwan High Speed Rail：<a href="https://en.thsrc.com.tw/"_blank"> official website</a><br>
+▪ Taoyuan International Airport：<a href="https://www.taoyuan-airport.com/" target="_blank"> official website</a><br>
+▪ Taipei Songshan Airport：<a href="https://www.tsa.gov.tw/?id=ef81d612-6ca0-4e0f-9459-30bfb8c9523f&culture=2" target="_blank">official website</a>`
         },
         {
           q: "Recommended nearby breakfast shops",
