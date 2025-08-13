@@ -179,7 +179,7 @@
 ▪ 台北松山機場：<a href="https://www.tsa.gov.tw/" target="_blank">松山機場</a>`
         },
          {
-          q: "南寮漁港、清華大學、交通大學交通方式",
+          q: "南寮漁港・清華大學・交通大學交通方式",
           a: `
 ▪ 南寮漁港-新竹客運0150_藍15區公車：<a href="http://www.hcbus.com.tw/big5/information-2.asp?select=7&button=%E9%80%81%E5%87%BA" target="_blank"> 新竹客運官網</a><br>
 ▪ 清華大學雙校區-科技之星83路公車：<a href="https://www.yosemite-bus.com.tw/no81_bus.asp#no83" target="_blank"> 科技之星官網</a><br>
@@ -342,7 +342,7 @@
 ▪ Hsinchu City Hall Ubike Station: <a href="https://www.google.com/maps?q=YouBike 新竹市政府" target="_blank">Map</a>`
         },
          {
-          q: "Taiwan Railway Corp. (TRC) 、Taiwan High Speed Rail(HSR)、Taoyuan International Airport(TPE)✈️、Taipei Songshan Airport(TSA)✈️",
+          q: "Taiwan Railway Corp. (TRC)・Taiwan High Speed Rail(HSR)・Taoyuan International Airport(TPE)✈️・Taipei Songshan Airport(TSA)✈️",
           a: `
 ▪ Taiwan Railway(TRC) ：<a href="https://tip.railway.gov.tw/tra-tip-web/tip?lang=EN_US" target="_blank"> official website</a><br>
 ▪ Taiwan High Speed Rail(HSR)：<a href="https://en.thsrc.com.tw/"_blank"> official website</a><br>
@@ -507,7 +507,7 @@
 ▪ 新竹市政府Ubikeステーション：<a href="https://www.google.com/maps?q=YouBike 新竹市政府" target="_blank">地図</a>`
         },
          {
-          q: "台湾鉄路株式会社(TRC) 、台湾高速鉄道(HSR)、桃園國際機場(TPE)✈️、台北松山機場(TSA)✈️",
+          q: "台湾鉄路株式会社(TRC)<br>・台湾高速鉄道(HSR)<br>・桃園國際機場(TPE)✈️<br>・台北松山機場(TSA)✈️",
           a: `
 ▪ 台湾鉄路株式会社(TRC) ：<a href="https://tip.railway.gov.tw/tra-tip-web/tip?lang=JA_JP" target="_blank"> 公式ウェブサイト</a><br>
 ▪ 台湾高速鉄道(HSR)：<a href="https://jp.thsrc.com.tw/ArticleContent/07a7dfcc-1910-485f-a296-699ff11efb46"_blank"> 公式ウェブサイト</a><br>
