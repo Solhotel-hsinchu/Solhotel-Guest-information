@@ -309,7 +309,7 @@
 ▪ Hsinchu (Nanliao Fishing Harbor) 17 km Coastal Scenic Area：<a href="https://www.google.com/maps?q=新竹17公里海岸風景區" target="_blank">Map</a><br>
 ▪ Xiangshan Wetland Crab Viewing Trail：<a href="https://www.google.com/maps?q=香山濕地賞蟹步道" target="_blank">Map</a><br>
 ▪ Fengqing Coast：<a href="https://www.google.com/maps?q=風情海岸" target="_blank">Map</a><br>
-★ Hsinchu City Travel Info：<a href="https://eng.taiwan.net.tw/m1.aspx?sno=0002109" target="_blank">More Info</a>`
+★ Hsinchu City Travel Info：<a href="https://eng.taiwan.net.tw/m1.aspx?sno=0002109" target="_blank">Tourism Administration</a>`
         },
         {
           q: "Temple attractions near the hotel",
@@ -464,14 +464,15 @@
 ▪ 青青草原：<a href="https://www.google.com/maps?q=青青草原 香山" target="_blank">地図</a><br>
 ▪ 新竹（南寮漁港）17キロの海岸風景区：<a href="https://www.google.com/maps?q=新竹17公里海岸風景區" target="_blank">地図</a><br>
 ▪ 香山湿地のカニ観察歩道：<a href="https://www.google.com/maps?q=香山濕地賞蟹步道" target="_blank">地図</a><br>
-▪ 風情海岸：<a href="https://www.google.com/maps?q=風情海岸" target="_blank">地図</a>`
+▪ 風情海岸：<a href="https://www.google.com/maps?q=風情海岸" target="_blank">地図</a><br>
+★ 新竹市旅行情報：<a href="https://jp.taiwan.net.tw/m1.aspx?sno=0003109" target="_blank">交通部観光署</a>`
         },
         {
           q: "ホテル周辺の寺院・神社スポット",
           a: `
 ▪ 東寧宮：<a href="https://www.google.com/maps?q=東寧宮" target="_blank">地図</a><br>
 ▪ 新竹都城隍廟：<a href="https://www.google.com/maps?q=新竹都城隍廟" target="_blank">地図</a><br>
-▪ 新竹竹蓮寺：<a href="https://www.google.com/maps?q=新竹竹蓮寺" target="_blank">地圖</a><br>
+▪ 新竹竹蓮寺：<a href="https://www.google.com/maps?q=新竹竹蓮寺" target="_blank">地図</a><br>
 ▪ 新竹長和宮：<a href="https://www.google.com/maps?q=新竹長和宮" target="_blank">地図</a><br>
 ▪ 関帝廟：<a href="https://www.google.com/maps?q=關帝廟" target="_blank">地図</a>`
         },
@@ -479,7 +480,7 @@
           q: "近隣のショッピングモール",
           a: `
 ▪ 巨城ショッピングセンター：<a href="https://maps.example.com/bigcity" target="_blank">地図</a><br>
-▪ タロコ南雅プラザ：<a href="https://www.google.com/maps?q=大魯閣湳雅廣場" target="_blank">地圖</a><br>
+▪ タロコ南雅プラザ：<a href="https://www.google.com/maps?q=大魯閣湳雅廣場" target="_blank">地図</a><br>
 ▪ 新竹大遠百：<a href="https://www.google.com/maps?q=新竹大遠百" target="_blank">地図</a>`
         },
         {
@@ -500,9 +501,9 @@
           a: `
 ▪ スターバックス -(Starbucks 新竹州図書館店)：<a href="https://maps.example.com/starbucks" target="_blank">地図</a><br>
 ▪ 九幕コーヒー：<a href="https://www.google.com/maps?q=九幕咖啡" target="_blank">地図</a><br>
- 春室 SPRING POOL GLASS STUDIO + The POOL：<a href="https://www.google.com/maps?q=春室 SPRING POOL GLASS STUDIO + The POOL" target="_blank">地圖</a><br>
-▪ ルイーザコーヒー（Louisa Coffee 新竹公園店）：<a href="https://www.google.com/maps?q=Louisa Coffee 路易莎咖啡  新竹東區公園路" target="_blank">地圖</a><br>
-▪ 墨咖啡 INK COFFEE：<a href="https://www.google.com/maps?q=墨咖啡 INK COFFEE" target="_blank">地圖</a><br>
+ 春室 SPRING POOL GLASS STUDIO + The POOL：<a href="https://www.google.com/maps?q=春室 SPRING POOL GLASS STUDIO + The POOL" target="_blank">地図</a><br>
+▪ ルイーザコーヒー（Louisa Coffee 新竹公園店）：<a href="https://www.google.com/maps?q=Louisa Coffee 路易莎咖啡  新竹東區公園路" target="_blank">地図</a><br>
+▪ 墨咖啡 INK COFFEE：<a href="https://www.google.com/maps?q=墨咖啡 INK COFFEE" target="_blank">地図</a><br>
 ▪ 饅饅好食：<a href="https://www.google.com/maps?q=饅饅好食" target="_blank">地図</a><br>
 ▪ 百の味（三民店）：<a href="https://www.google.com/maps?q=一百種味道(三民店)" target="_blank">地図</a><br>
 ▪ 夏コーヒー：<a href="https://www.google.com/maps?q=夏.咖啡" target="_blank">地図</a><br>
