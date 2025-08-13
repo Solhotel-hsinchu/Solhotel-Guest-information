@@ -194,7 +194,7 @@
 ▪ 星巴克-新竹州圖門市：<a href="https://www.google.com/maps?q=星巴克-新竹州圖門市" target="_blank">地圖</a>`
         },
         {
-          q: "咖啡和下午茶推薦？",
+          q: "咖啡☕和下午茶推薦？",
           a: `
 ▪ 星巴克-新竹州圖門市：<a href="https://www.google.com/maps?q=星巴克-新竹州圖門市" target="_blank">地圖</a><br>
 ▪ 九幕咖啡：<a href="https://www.google.com/maps?q=九幕咖啡" target="_blank">地圖</a><br>
@@ -361,10 +361,12 @@
 ▪ Starbucks - Hsinchu State Library Store: <a href="https://www.google.com/maps?q=星巴克-新竹州圖門市" target="_blank">Map</a>`
         },
         {
-          q: "Coffee and afternoon tea recommendations?",
+          q: "Coffee☕ and afternoon tea recommendations?",
           a: `
 ▪ Starbucks - Hsinchu State Library Store: <a href="https://www.google.com/maps?q=星巴克-新竹州圖門市" target="_blank">Map</a><br>
 ▪ Jiumu Coffee: <a href="https://www.google.com/maps?q=九幕咖啡" target="_blank">Map</a><br>
+▪ Seed Sweet Coffee(No Fixed Holidays)：<a href="https://www.google.com/maps?q=種甜" target="_blank">Map</a><br>
+▪ ReEcho Coffee：<a href="https://www.google.com/maps?q=一想一響咖啡" target="_blank">Map</a><br>
 ▪ Spring Room SPRING POOL GLASS STUDIO + The POOL：<a href="https://www.google.com/maps?q=春室 SPRING POOL GLASS STUDIO + The POOL" target="_blank">Map</a><br>
 ▪ Louisa Coffee (Hsinchu Park Branch)：<a href="https://www.google.com/maps?q=Louisa Coffee 路易莎咖啡  新竹東區公園路" target="_blank">Map</a><br>
 ▪ Ink Coffee：<a href="https://www.google.com/maps?q=墨咖啡 INK COFFEE" target="_blank">Map</a><br>
@@ -527,11 +529,13 @@
 ▪ スターバックス - 新竹州図書館店：<a href="https://maps.example.com/starbucks" target="_blank">地図</a>`
         },
         {
-          q: "コーヒーとアフタヌーンティーのおすすめは？",
+          q: "コーヒー☕とアフタヌーンティーのおすすめは？",
           a: `
 ▪ スターバックス -(Starbucks 新竹州図書館店)：<a href="https://maps.example.com/starbucks" target="_blank">地図</a><br>
 ▪ 九幕コーヒー：<a href="https://www.google.com/maps?q=九幕咖啡" target="_blank">地図</a><br>
- 春室 SPRING POOL GLASS STUDIO + The POOL：<a href="https://www.google.com/maps?q=春室 SPRING POOL GLASS STUDIO + The POOL" target="_blank">地図</a><br>
+▪ 種甜(不定休)：<a href="https://www.google.com/maps?q=種甜" target="_blank">地図</a><br>
+▪ リ・エコー・コーヒー：<a href="https://www.google.com/maps?q=一想一響咖啡" target="_blank">地図</a><br>
+▪ 春室 SPRING POOL GLASS STUDIO + The POOL：<a href="https://www.google.com/maps?q=春室 SPRING POOL GLASS STUDIO + The POOL" target="_blank">地図</a><br>
 ▪ ルイーザコーヒー（Louisa Coffee 新竹公園店）：<a href="https://www.google.com/maps?q=Louisa Coffee 路易莎咖啡  新竹東區公園路" target="_blank">地図</a><br>
 ▪ 墨咖啡 INK COFFEE：<a href="https://www.google.com/maps?q=墨咖啡 INK COFFEE" target="_blank">地図</a><br>
 ▪ 饅饅好食：<a href="https://www.google.com/maps?q=饅饅好食" target="_blank">地図</a><br>
