@@ -184,7 +184,7 @@
           a: `
 ▪ 南寮漁港-新竹客運0150_藍15區公車：<a href="http://www.hcbus.com.tw/big5/information-2.asp?select=7&button=%E9%80%81%E5%87%BA" target="_blank"> 新竹客運官網</a><br>
 ▪ 清華大學雙校區-科技之星83路公車：<a href="https://www.yosemite-bus.com.tw/no81_bus.asp#no83" target="_blank"> 科技之星官網</a><br>
-▪ 清華大學(僅光復校區)、交通大學雙校區-新竹客運0020_2路公車：<a href="http://www.hcbus.com.tw/big5/information-2.asp?select=2&button=%E9%80%81%E5%87%BA" target="_blank"> 新竹客運官網</a>`
+▪ 交通大學雙校區、清華大學光復校區-新竹客運0020_2路公車：<a href="http://www.hcbus.com.tw/big5/information-2.asp?select=2&button=%E9%80%81%E5%87%BA" target="_blank"> 新竹客運官網</a>`
         },
         {
           q: "鄰近早餐店推薦？",
@@ -204,7 +204,7 @@
 ▪ Louisa Coffee 路易莎咖啡 (新竹公園門市)：<a href="https://www.google.com/maps?q=Louisa Coffee 路易莎咖啡  新竹東區公園路" target="_blank">地圖</a><br>
 ▪ 墨咖啡 INK COFFEE：<a href="https://www.google.com/maps?q=墨咖啡 INK COFFEE" target="_blank">地圖</a><br>
 ▪ 饅饅好食：<a href="https://www.google.com/maps?q=饅饅好食" target="_blank">地圖</a><br>
-▪ 一百種味道(三民店)：<a href="https://www.google.com/maps?q=一百種味道(三民店)" target="_blank">地圖</a><br>
+▪ 一百種味道 (三民店)：<a href="https://www.google.com/maps?q=一百種味道(三民店)" target="_blank">地圖</a><br>
 ▪ 夏.咖啡：<a href="https://www.google.com/maps?q=夏.咖啡" target="_blank">地圖</a><br>
 ▪ Float Dept.微生咖啡：<a href="https://www.google.com/maps?q=Float Dept.微生咖啡" target="_blank">地圖</a>`
         },
@@ -234,7 +234,7 @@
 ▪ 大阪燒肉 燒魂Yakikon：<a href="https://www.google.com/maps?q=大阪燒肉 燒魂Yakikon 新竹市東區" target="_blank">地圖</a>`
         },
         {
-          q: "素食餐廳推薦？",
+          q: "素食餐廳推薦🥗？",
           a: `
 ▪ 果庭蔬食廚房：<a href="https://www.google.com/maps?q=果庭蔬食廚房" target="_blank">地圖</a><br>
 ▪ 森活原素 V-Element 蔬食餐廳：<a href="https://www.google.com/maps?q=森活原素 V-Element 蔬食餐廳" target="_blank">地圖</a><br>
@@ -401,7 +401,7 @@
 ▪ Osaka Yakiniku Yakikon: <a href="https://www.google.com/maps?q=大阪燒肉 燒魂Yakikon 新竹市東區" target="_blank">Map</a>`
         },
         {
-          q: "Vegetarian restaurant recommendations?",
+          q: "Vegetarian restaurant recommendations🥗?",
           a: `
 ▪ Guoting Vegetarian Kitchen：<a href="https://www.google.com/maps?q=果庭蔬食廚房" target="_blank">Map</a><br>
 ▪ V-Element Vegetarian Kitchen：<a href="https://www.google.com/maps?q=森活原素 V-Element 蔬食餐廳" target="_blank">Map</a><br>
@@ -533,7 +533,7 @@
           a: `
 ▪ スターバックス -(Starbucks 新竹州図書館店)：<a href="https://maps.example.com/starbucks" target="_blank">地図</a><br>
 ▪ 九幕コーヒー：<a href="https://www.google.com/maps?q=九幕咖啡" target="_blank">地図</a><br>
-▪ 種甜(不定休)：<a href="https://www.google.com/maps?q=種甜" target="_blank">地図</a><br>
+▪ 種甜 (不定休)：<a href="https://www.google.com/maps?q=種甜" target="_blank">地図</a><br>
 ▪ リ・エコー・コーヒー：<a href="https://www.google.com/maps?q=一想一響咖啡" target="_blank">地図</a><br>
 ▪ 春室 SPRING POOL GLASS STUDIO + The POOL：<a href="https://www.google.com/maps?q=春室 SPRING POOL GLASS STUDIO + The POOL" target="_blank">地図</a><br>
 ▪ ルイーザコーヒー（Louisa Coffee 新竹公園店）：<a href="https://www.google.com/maps?q=Louisa Coffee 路易莎咖啡  新竹東區公園路" target="_blank">地図</a><br>
@@ -569,7 +569,7 @@
 ▪ 大阪焼肉 燒魂Yakikon：<a href="https://www.google.com/maps?q=大阪燒肉 燒魂Yakikon 新竹市東區"" target="_blank">地図</a>`
         },
         {
-          q: "ベジタリアンレストランのおすすめは？",
+          q: "ベジタリアンレストランのおすすめは🥗？",
           a: `
 ▪ 果庭ベジタリアンキッチン：<a href="https://www.google.com/maps?q=果庭蔬食廚房" target="_blank">地図</a><br>
 ▪  V-Element ベジタリアンレストラン：<a href="https://www.google.com/maps?q=森活原素 V-Element 蔬食餐廳" target="_blank">地図</a><br>
