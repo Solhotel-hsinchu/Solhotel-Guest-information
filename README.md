@@ -155,7 +155,7 @@
 ▪ 新竹都城隍廟：<a href="https://www.google.com/maps?q=新竹都城隍廟" target="_blank">地圖</a><br>
 ▪ 新竹竹蓮寺：<a href="https://www.google.com/maps?q=新竹竹蓮寺" target="_blank">地圖</a><br>
 ▪ 新竹長和宮：<a href="https://www.google.com/maps?q=新竹長和宮" target="_blank">地圖</a><br>
-▪ 關帝廟：<a href="https://www.google.com/maps?q=關帝廟" target="_blank">地圖</a>`
+▪ 關帝廟：<a href="https://www.google.com/maps?q=新竹關帝廟 南門街" target="_blank">地圖</a>`
         },
         {
           q: "鄰近購物百貨",
@@ -332,7 +332,7 @@
 ▪ Hsinchu City God Temple: <a href="https://www.google.com/maps?q=新竹都城隍廟" target="_blank">Map</a><br>
 ▪ Hsinchu Zhulin Temple：<a href="https://www.google.com/maps?q=新竹竹蓮寺" target="_blank">Map</a><br>
 ▪ Changhe Temple: <a href="https://www.google.com/maps?q=新竹長和宮" target="_blank">Map</a><br>
-▪ Guandi Temple: <a href="https://www.google.com/maps?q=關帝廟" target="_blank">Map</a>`
+▪ Guandi Temple: <a href="https://www.google.com/maps?q=新竹關帝廟 南門街" target="_blank">Map</a>`
         },
         {
           q: "Nearby shopping malls",
@@ -361,7 +361,7 @@
           a: `
 ▪ Garlic & Jazz Breakfast: <a href="https://www.google.com/maps?q=義式屋古拉爵 新竹迎曦店" target="_blank">Map</a><br>
 ▪ Shandong Breakfast - Xiao Long Bao (steamed soup dumplings), Taiwanese egg crepes: <a href="https://www.google.com/maps?q=眷村龎" target="_blank">Map</a><br>
-▪ Starbucks - Hsinchu State Library Store: <a href="https://www.google.com/maps?q=星巴克-新竹州圖門市" target="_blank">Map</a>`
+▪ Starbucks - Hsinchu State Library Store:<a href="https://www.google.com/maps?q=星巴克-新竹州圖門市" target="_blank">Map</a>`
         },
         {
           q: "Coffee☕ and afternoon tea recommendations?",
@@ -503,7 +503,7 @@
 ▪ 新竹都城隍廟：<a href="https://www.google.com/maps?q=新竹都城隍廟" target="_blank">地図</a><br>
 ▪ 新竹竹蓮寺：<a href="https://www.google.com/maps?q=新竹竹蓮寺" target="_blank">地図</a><br>
 ▪ 新竹長和宮：<a href="https://www.google.com/maps?q=新竹長和宮" target="_blank">地図</a><br>
-▪ 関帝廟：<a href="https://www.google.com/maps?q=關帝廟" target="_blank">地図</a>`
+▪ 関帝廟：<a href="https://www.google.com/maps?q=新竹關帝廟 南門街" target="_blank">地図</a>`
         },
         {
           q: "近隣のショッピングモール",
@@ -532,7 +532,7 @@
           a: `
 ▪ ガーリック＆ジャズ朝食：<a href="https://www.google.com/maps?q=義式屋古拉爵 新竹迎曦店" target="_blank">地図</a><br>
 ▪ 山東の朝食・眷村龎 - 小籠包（ショウロンポー）、台湾式卵クレープ（ダンビン）：<a href="https://www.google.com/maps?q=眷村龎" target="_blank">地図</a><br>
-▪ スターバックス - 新竹州図書館店：<a href="https://maps.example.com/starbucks" target="_blank">地図</a>`
+▪ スターバックス - 新竹州図書館店：<a href="https://www.google.com/maps?q=星巴克-新竹州圖門市" target="_blank">地図</a>`
         },
         {
           q: "コーヒー☕とアフタヌーンティーのおすすめは？",
@@ -600,7 +600,7 @@
           a: `
 ▪ 段純貞牛肉麺：<a href="https://www.google.com/maps?q=段純貞牛肉麵新竹市北區武陵路" target="_blank">地図</a><br>
 ▪ 熊川牛肉麺：<a href="https://www.google.com/maps?q=熊川牛肉麵" target="_blank">地図</a><br>
-▪ 璽子牛肉麺：<a href="https://maps.example.com/beefnoodle3" target="_blank">地図</a><br>
+▪ 璽子牛肉麺：<a href="https://www.google.com/maps?q=璽子牛肉麵（博愛店)" target="_blank">地図</a><br>
 ▪ 貳壹村精緻麺点：<a href="https://www.google.com/maps?q=貳壹村精緻麵點" target="_blank">地図</a>`
         },
         {
