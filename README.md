@@ -205,7 +205,7 @@
 ▪ 墨咖啡 INK COFFEE：<a href="https://www.google.com/maps?q=墨咖啡 INK COFFEE" target="_blank">地圖</a><br>
 ▪ 饅饅好食：<a href="https://www.google.com/maps?q=饅饅好食" target="_blank">地圖</a><br>
 ▪ 一百種味道 (三民店)：<a href="https://www.google.com/maps?q=一百種味道(三民店)" target="_blank">地圖</a><br>
-▪ 夏.咖啡：<a href="https://www.google.com/maps?q=夏.咖啡" target="_blank">地圖</a><br>
+▪ 夏.咖啡：<a href="https://www.google.com/maps?q=夏.咖啡 仁愛街" target="_blank">地圖</a><br>
 ▪ Float Dept.微生咖啡：<a href="https://www.google.com/maps?q=Float Dept.微生咖啡" target="_blank">地圖</a>`
         },
         {
@@ -221,7 +221,7 @@
           a: `
 ▪ 冪2 La Miette Kitchen：<a href="https://www.google.com/maps?q=冪2 La Miette Kitchen" target="_blank">地圖</a><br>
 ▪ TABLE JOE 喬桌子廚房：<a href="https://www.google.com/maps?q=TABLE JOE 喬桌子廚房" target="_blank">地圖</a><br>
-▪ 史坦利美式牛排：<a href="https://www.google.com/maps?q=史坦利美式牛排" target="_blank">地圖</a><br>
+▪ 史坦利美式牛排：<a href="https://www.google.com/maps?q=史坦利美式牛排 巨城" target="_blank">地圖</a><br>
 ▪ 金色三麥 新竹巨城店PARK15：<a href="https://www.google.com/maps?q=金色三麥 新竹巨城店PARK15" target="_blank">地圖</a>`
         },
         {
@@ -375,7 +375,7 @@
 ▪ Ink Coffee：<a href="https://www.google.com/maps?q=墨咖啡 INK COFFEE" target="_blank">Map</a><br>
 ▪ Manman Delicious: <a href="https://www.google.com/maps?q=饅饅好食" target="_blank">Map</a><br>
 ▪ Hundred Flavors (Sanmin Store): <a href="https://www.google.com/maps?q=一百種味道(三民店)" target="_blank">Map</a><br>
-▪ Summer Coffee: <a href="https://www.google.com/maps?q=夏.咖啡" target="_blank">Map</a><br>
+▪ Summer Coffee: <a href="https://www.google.com/maps?q=夏.咖啡 仁愛街" target="_blank">Map</a><br>
 ▪ Float Dept. Micro Roastery: <a href="https://www.google.com/maps?q=Float Dept.微生咖啡" target="_blank">Map</a>`
         },
         {
@@ -391,14 +391,14 @@
           a: `
 ▪ La Miette Kitchen: <a href="https://www.google.com/maps?q=冪2 La Miette Kitchen" target="_blank">Map</a><br>
 ▪ TABLE JOE Kitchen: <a href="https://www.google.com/maps?q=TABLE JOE 喬桌子廚房" target="_blank">Map</a><br>
-▪ Stanley American Steakhouse: <a href="https://maps.example.com/western3" target="_blank">Map</a><br>
+▪ Stanley American Steakhouse:<a href="https://www.google.com/maps?q=史坦利美式牛排 巨城" target="_blank">Map</a><br>
 ▪ Jinse Sanmai Park15, Hsinchu Big City: <a href="https://www.google.com/maps?q=金色三麥 新竹巨城店PARK15" target="_blank">Map</a>`
         },
         {
           q: "Japanese restaurant recommendations?",
           a: `
 ▪ Yuzu: <a href="https://www.google.com/maps?q=柚子 文化街" target="_blank">Map</a><br>
-▪ Minfood: <a href="https://www.google.com/maps?q=皿富器食 minfood" target="_blank">Map</a><br>
+▪ Minfood:<a href="https://www.google.com/maps?q=皿富器食 minfood" target="_blank">Map</a><br>
 ▪ Shinbashi Yakiniku: <a href="https://www.google.com/maps?q=新橋燒肉屋 府後店" target="_blank">Map</a><br>
 ▪ Private Taste Skewers: <a href="https://www.google.com/maps?q=私嚐串燒 中正店" target="_blank">Map</a><br>
 ▪ Osaka Yakiniku Yakikon: <a href="https://www.google.com/maps?q=大阪燒肉 燒魂Yakikon 新竹市東區" target="_blank">Map</a>`
@@ -537,7 +537,7 @@
         {
           q: "コーヒー☕とアフタヌーンティーのおすすめは？",
           a: `
-▪ スターバックス -(Starbucks 新竹州図書館店)：<a href="https://maps.example.com/starbucks" target="_blank">地図</a><br>
+▪ スターバックス -(Starbucks 新竹州図書館店)：<a href="https://www.google.com/maps?q=新竹州圖書館" target="_blank">地図</a><br>
 ▪ 九幕コーヒー：<a href="https://www.google.com/maps?q=九幕咖啡" target="_blank">地図</a><br>
 ▪ 種甜 (不定休)：<a href="https://www.google.com/maps?q=種甜" target="_blank">地図</a><br>
 ▪ リ・エコー・コーヒー：<a href="https://www.google.com/maps?q=一想一響咖啡" target="_blank">地図</a><br>
@@ -546,7 +546,7 @@
 ▪ 墨咖啡 INK COFFEE：<a href="https://www.google.com/maps?q=墨咖啡 INK COFFEE" target="_blank">地図</a><br>
 ▪ 饅饅好食：<a href="https://www.google.com/maps?q=饅饅好食" target="_blank">地図</a><br>
 ▪ 百の味（三民店）：<a href="https://www.google.com/maps?q=一百種味道(三民店)" target="_blank">地図</a><br>
-▪ 夏コーヒー：<a href="https://www.google.com/maps?q=夏.咖啡" target="_blank">地図</a><br>
+▪ 夏コーヒー：<a href="https://www.google.com/maps?q=夏.咖啡 仁愛街" target="_blank">地図</a><br>
 ▪ Float Dept.微生コーヒー：<a href="https://www.google.com/maps?q=Float Dept.微生咖啡" target="_blank">地図</a>`
         },
         {
@@ -569,7 +569,7 @@
           q: "和食レストランのおすすめは？",
           a: `
 ▪ 柚子：<a href="https://www.google.com/maps?q=柚子 文化街" target="_blank">地図</a><br>
-▪ 皿富器食 minfood：<a href="https://maps.example.com/japanese2" target="_blank">地図</a><br>
+▪ 皿富器食 minfood：<a href="https://www.google.com/maps?q=皿富器食 minfood" target="_blank">地図</a><br>
 ▪ 新橋焼肉屋：<a href="https://www.google.com/maps?q=新橋燒肉屋 府後店" target="_blank">地図</a><br>
 ▪ 私嚐串焼：<a href="https://www.google.com/maps?q=私嚐串燒 中正店" target="_blank">地図</a><br>
 ▪ 大阪焼肉 燒魂Yakikon：<a href="https://www.google.com/maps?q=大阪燒肉 燒魂Yakikon 新竹市東區"" target="_blank">地図</a>`
