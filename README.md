@@ -240,7 +240,7 @@
 ▪ 森活原素 V-Element 蔬食餐廳：<a href="https://www.google.com/maps?q=森活原素 V-Element 蔬食餐廳" target="_blank">地圖</a><br>
 ▪ 籽田野菜屋：<a href="https://www.google.com/maps?q=籽田野菜屋" target="_blank">地圖</a><br>
 ▪ 井家：<a href="https://www.google.com/maps?q=井家" target="_blank">地圖</a><br>
-▪ 井町日式蔬食料理(大同店)：<a href="https://www.google.com/maps?q=井町日式蔬食料理(大同店)" target="_blank">地圖</a><br>
+▪ 井町日式蔬食料理(大同店)：<a href="https://www.google.com/maps?q=井町日式蔬食料理 大同店" target="_blank">地圖</a><br>
 ▪ 八二親食-三民店：<a href="https://www.google.com/maps?q=八二親食-三民店" target="_blank">地圖</a>`
         },
         {
@@ -409,7 +409,7 @@
 ▪ Guoting Vegetarian Kitchen：<a href="https://www.google.com/maps?q=果庭蔬食廚房" target="_blank">Map</a><br>
 ▪ V-Element Vegetarian Kitchen：<a href="https://www.google.com/maps?q=森活原素 V-Element 蔬食餐廳" target="_blank">Map</a><br>
 ▪ Zitian Vegetable House: <a href="https://www.google.com/maps?q=籽田野菜屋" target="_blank">Map</a><br>
-▪ Jingjia: <a href="https://maps.example.com/vegan3" target="_blank">Map</a><br>
+▪ Jingjia:：<a href="https://www.google.com/maps?q=井町日式蔬食料理 大同店" target="_blank">Map</a><br>
 ▪ Jingmachi Japanese Vegetarian: <a href="https://www.google.com/maps?q=井家" target="_blank">Map</a><br>
 ▪ 82 Qin Shi: <a href="https://www.google.com/maps?q=八二親食-三民店" target="_blank">Map</a>`
         },
@@ -420,9 +420,9 @@
 ▪ 132 Officer’s Residence Bistro：<a href="https://www.google.com/maps?q=132官舍/新竹州警務部部長官舍(餐酒館Bistro)" target="_blank">Map</a><br>
 ▪ Yanli Pondok Sunny-Singaporean and Malaysian Cuisine：<a href="https://www.google.com/maps?q=艷麗Pondok Sunny" target="_blank">Map</a><br>
 ▪ El Mundo Mexican Cuisine：<a href="https://www.google.com/maps?q=El Mundo墨多" target="_blank">Map</a><br>
-▪ Sultan Turkish Kitchen: <a href="https://maps.example.com/foreign2" target="_blank">Map</a><br>
-▪ Dada Indian Cuisine: <a href="https://maps.example.com/foreign3" target="_blank">Map</a><br>
-▪ MAS India Restaurant: <a href="https://www.google.com/maps?q=MAS India Restaurant 媽媽印度料理" target="_blank">Map</a>`
+▪ Sultan Turkish Kitchen: <a href="https://www.google.com/maps?q=蘇丹土耳其廚房" target="_blank">Map</a><br>
+▪ Dada Indian Cuisine: <a href="https://www.google.com/maps?q=達達印度料理(新竹店)(原 印度小鎮)Burans Indian Kitchen in Hsinchu (Indian Town)" target="_blank">Map</a><br>
+▪ MAS India Restaurant:<a href="https://www.google.com/maps?q=MAS India Restaurant 媽媽印度料理" target="_blank">Map</a>`
         },
         {
           q: "Beef noodle recommendations?",
@@ -562,7 +562,7 @@
           a: `
 ▪ 冪2 La Miette キッチン：<a href="https://www.google.com/maps?q=冪2 La Miette Kitchen" target="_blank">地図</a><br>
 ▪ TABLE JOE キッチン：<a href="https://www.google.com/maps?q=TABLE JOE 喬桌子廚房" target="_blank">地図</a><br>
-▪ スタンリーアメリカンステーキハウス：<a href="https://maps.example.com/western3" target="_blank">地図</a><br>
+▪ スタンリー(Stanley)アメリカンステーキハウス：<a href="https://www.google.com/maps?q=史坦利美式牛排 巨城" target="_blank">地図</a><br>
 ▪ 金色三麥 新竹巨城店 PARK15：<a href="https://www.google.com/maps?q=金色三麥 新竹巨城店PARK15" target="_blank">地図</a>`
         },
         {
@@ -581,7 +581,7 @@
 ▪  V-Element ベジタリアンレストラン：<a href="https://www.google.com/maps?q=森活原素 V-Element 蔬食餐廳" target="_blank">地図</a><br>
 ▪ 籽田野菜屋：<a href="https://www.google.com/maps?q=籽田野菜屋" target="_blank">地図</a><br>
 ▪ 井家：<a href="https://www.google.com/maps?q=井家" target="_blank">地図</a><br>
-▪ 井町日式蔬食料理（大同店）：<a href="https://maps.example.com/vegan4" target="_blank">地図</a><br>
+▪ 井町日式蔬食料理：：<a href="https://www.google.com/maps?q=井町日式蔬食料理 大同店" target="_blank">地図</a><br>
 ▪ 八二親食：<a href="https://www.google.com/maps?q=八二親食-三民店" target="_blank">地図</a>`
         },
         {
@@ -591,9 +591,9 @@
 ▪ 132官舎ビストロ：<a href="https://www.google.com/maps?q=132官舍/新竹州警務部部長官舍(餐酒館Bistro)" target="_blank">地図</a><br>
 ▪ 艷麗ポンドック・サニー(シンガポール・マレーシア料理)：<a href="https://www.google.com/maps?q=艷麗Pondok Sunny" target="_blank">地図</a><br>
 ▪ エル・ムンド墨多(El Mundo)メキシコ料理：<a href="https://www.google.com/maps?q=El Mundo墨多" target="_blank">地図</a><br>
-▪ スルタン・トルコ料理店：<a href="https://maps.example.com/foreign2" target="_blank">地図</a><br>
-▪ ダダ・インド料理：<a href="https://maps.example.com/foreign3" target="_blank">地図</a><br>
-▪ MASインドレストラン：<a href="https://maps.example.com/foreign4" target="_blank">地図</a>`
+▪ スルタン・トルコ料理店：<a href="https://www.google.com/maps?q=蘇丹土耳其廚房" target="_blank">地図</a><br>
+▪ ダダ・インド料理：<a href="https://www.google.com/maps?q=達達印度料理(新竹店)(原 印度小鎮)Burans Indian Kitchen in Hsinchu (Indian Town)" target="_blank">地図</a><br>
+▪ MASインドレストラン：<a href="https://www.google.com/maps?q=MAS India Restaurant 媽媽印度料理" target="_blank">地図</a>`
         },
         {
           q: "牛肉麺のおすすめは？",
