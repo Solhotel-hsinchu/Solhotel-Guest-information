@@ -200,6 +200,7 @@
 ▪ 九幕咖啡：<a href="https://www.google.com/maps?q=九幕咖啡" target="_blank">地圖</a><br>
 ▪ 種甜：<a href="https://www.google.com/maps?q=種甜" target="_blank">地圖</a><br>
 ▪ 一想一響咖啡：<a href="https://www.google.com/maps?q=一想一響咖啡" target="_blank">地圖</a><br>
+▪ 李克承博士故居 a-moom：<a href="https://www.google.com/maps?q=李克承博士故居 a-moom(新竹市)" target="_blank">地圖</a><br>
 ▪ 春室 SPRING POOL GLASS STUDIO + The POOL：<a href="https://www.google.com/maps?q=春室 SPRING POOL GLASS STUDIO + The POOL" target="_blank">地圖</a><br>
 ▪ Louisa Coffee 路易莎咖啡 (新竹公園門市)：<a href="https://www.google.com/maps?q=Louisa Coffee 路易莎咖啡  新竹東區公園路" target="_blank">地圖</a><br>
 ▪ 墨咖啡 INK COFFEE：<a href="https://www.google.com/maps?q=墨咖啡 INK COFFEE" target="_blank">地圖</a><br>
@@ -370,6 +371,7 @@
 ▪ Jiumu Coffee: <a href="https://www.google.com/maps?q=九幕咖啡" target="_blank">Map</a><br>
 ▪ Seed Sweet Coffee(No Fixed Holidays)：<a href="https://www.google.com/maps?q=種甜" target="_blank">Map</a><br>
 ▪ ReEcho Coffee：<a href="https://www.google.com/maps?q=一想一響咖啡" target="_blank">Map</a><br>
+▪ Former Residence of Dr. Lee Ko-Cheng (A-Moom)：<a href="https://www.google.com/maps?q=李克承博士故居 a-moom(新竹市)" target="_blank">Map</a><br>
 ▪ Spring Room SPRING POOL GLASS STUDIO + The POOL：<a href="https://www.google.com/maps?q=春室 SPRING POOL GLASS STUDIO + The POOL" target="_blank">Map</a><br>
 ▪ Louisa Coffee (Hsinchu Park Branch)：<a href="https://www.google.com/maps?q=Louisa Coffee 路易莎咖啡  新竹東區公園路" target="_blank">Map</a><br>
 ▪ Ink Coffee：<a href="https://www.google.com/maps?q=墨咖啡 INK COFFEE" target="_blank">Map</a><br>
@@ -541,6 +543,7 @@
 ▪ 九幕コーヒー：<a href="https://www.google.com/maps?q=九幕咖啡" target="_blank">地図</a><br>
 ▪ 種甜 (不定休)：<a href="https://www.google.com/maps?q=種甜" target="_blank">地図</a><br>
 ▪ リ・エコー・コーヒー：<a href="https://www.google.com/maps?q=一想一響咖啡" target="_blank">地図</a><br>
+▪ 李克承博士旧宅（エームーム・A-Moom)：<a href="https://www.google.com/maps?q=李克承博士故居 a-moom(新竹市)" target="_blank">Map</a><br>
 ▪ 春室 SPRING POOL GLASS STUDIO + The POOL：<a href="https://www.google.com/maps?q=春室 SPRING POOL GLASS STUDIO + The POOL" target="_blank">地図</a><br>
 ▪ ルイーザコーヒー（Louisa Coffee 新竹公園店）：<a href="https://www.google.com/maps?q=Louisa Coffee 路易莎咖啡  新竹東區公園路" target="_blank">地図</a><br>
 ▪ 墨咖啡 INK COFFEE：<a href="https://www.google.com/maps?q=墨咖啡 INK COFFEE" target="_blank">地図</a><br>
