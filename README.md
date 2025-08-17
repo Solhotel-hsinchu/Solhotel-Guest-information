@@ -309,7 +309,8 @@
           q: "Nearby Night Markets",
           a:  `▪ Daily – Chenghuang Temple Night Market – <a href="https://www.google.com/maps?q=新竹市城隍廟夜市" target="_blank">Map</a><br>
            ▪ Tue & Thu – Hsinchu Back Station Night Market: <a href="https://www.google.com/maps?q=新竹後站夜市"  target="_blank">Map</a><br>
-          ▪ Wed & Fri – Shulintou Night Market: <a href="https://www.google.com/maps?q=樹林頭夜市" target="_blank">Map</a>`
+          ▪ Wed & Fri – Shulintou Night Market: <a href="https://www.google.com/maps?q=樹林頭夜市" target="_blank">Map</a><br>
+            ▪ Saturday and Sunday 11:00~19:00：Holiday Flower Market：<a href="https://www.google.com/maps?q=新竹假日花市" target="_blank">Map</a>`
         },
          {
           q: "Recommended Tourist Attractions in Hsinchu",
@@ -480,7 +481,8 @@
           q: "ホテル近くの夜市（よいち）",
           a: `▪ 毎日・城隍廟夜市（チョンホアンミャオ夜市）– <a href="https://www.google.com/maps?q=新竹市城隍廟夜市"  target="_blank">地図</a><br>
           ▪ 火・木：新竹後駅夜市 – <a href="https://www.google.com/maps?q=新竹後站夜市"  target="_blank">地図</a><br>
-          ▪ 水・金：樹林頭夜市 – <a href="https://www.google.com/maps?q=樹林頭夜市"  target="_blank">地図</a>`
+          ▪ 水・金：樹林頭夜市 – <a href="https://www.google.com/maps?q=樹林頭夜市"  target="_blank">地図</a><br>
+          ▪ 土曜日・日曜日 11:00~19:00：ホリデー花市場：<a href="https://www.google.com/maps?q=新竹假日花市" target="_blank">地図</a>`
 
         },
          {
