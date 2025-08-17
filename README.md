@@ -600,7 +600,7 @@
 ▪ 艷麗ポンドック・サニー(シンガポール・マレーシア料理)：<a href="https://www.google.com/maps?q=艷麗Pondok Sunny" target="_blank">地図</a><br>
 ▪ エル・ムンド墨多(El Mundo)メキシコ料理：<a href="https://www.google.com/maps?q=El Mundo墨多" target="_blank">地図</a><br>
 ▪ スルタン・トルコ料理店：<a href="https://www.google.com/maps?q=蘇丹土耳其廚房" target="_blank">地図</a><br>
-▪ 東京純豆腐新竹SOGO店（韓国料理）：<a href="https://www.google.com/maps?q=東京純豆腐Tokyo Sundubu 新竹SOGO店" target="_blank">地圖</a><br>
+▪ 東京純豆腐新竹SOGO店（韓国料理）：<a href="https://www.google.com/maps?q=東京純豆腐Tokyo Sundubu 新竹SOGO店" target="_blank">地図</a><br>
 ▪ ダダ・インド料理：<a href="https://www.google.com/maps?q=達達印度料理(新竹店)(原 印度小鎮)Burans Indian Kitchen in Hsinchu (Indian Town)" target="_blank">地図</a><br>
 ▪ MASインドレストラン：<a href="https://www.google.com/maps?q=MAS India Restaurant 媽媽印度料理" target="_blank">地図</a>`
         },
