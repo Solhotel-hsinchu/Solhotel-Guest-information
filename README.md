@@ -131,7 +131,8 @@
           q: "飯店鄰近夜市",
           a: `▪ 每日：城隍廟夜市：<a href="https://www.google.com/maps?q=新竹市城隍廟夜市" target="_blank">地圖</a><br>
            ▪ 週二、週四：新竹後站夜市：<a href="https://www.google.com/maps?q=新竹後站夜市" target="_blank">地圖</a><br>
-          ▪ 週三、週五：樹林頭夜市：<a href="https://www.google.com/maps?q=樹林頭夜市" target="_blank">地圖</a>`
+          ▪ 週三、週五：樹林頭夜市：<a href="https://www.google.com/maps?q=樹林頭夜市" target="_blank">地圖</a><br>
+         ▪ 週六、週日 11:00~19:00：新竹假日花市：<a href="https://www.google.com/maps?q=新竹假日花市" target="_blank">地圖</a>`
         },
          {
           q: "新竹觀光景點推薦",
