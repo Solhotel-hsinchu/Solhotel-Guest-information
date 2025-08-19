@@ -352,9 +352,9 @@
 ▪ Hsinchu City Hall Ubike Station: <a href="https://www.google.com/maps?q=YouBike 新竹市政府" target="_blank">Map</a>`
         },
          {
-          q: "Taiwan Railway Corp. (TRC)🚆<br>・Airport MRT🚆<br>・High Speed Rail(HSR)🚄<br>・Taoyuan International Airport(TPE)✈️<br>・Taipei Songshan Airport(TSA)✈️",
+          q: "Taiwan Railways Administration (TRA)🚆<br>・Airport MRT🚆<br>・High Speed Rail(HSR)🚄<br>・Taoyuan International Airport(TPE)✈️<br>・Taipei Songshan Airport(TSA)✈️",
           a: `
-▪ Taiwan Railway(TRC) ：<a href="https://tip.railway.gov.tw/tra-tip-web/tip?lang=EN_US" target="_blank"> official website</a><br>
+▪ Taiwan Railways Administration (TRA) ：<a href="https://tip.railway.gov.tw/tra-tip-web/tip?lang=EN_US" target="_blank"> official website</a><br>
 ▪ Taiwan High Speed Rail(HSR)：<a href="https://en.thsrc.com.tw/"_blank"> official website</a><br>
 ▪ Taoyuan Metro・Airport MRT：<a href="https://www.tymetro.com.tw/tymetro-new/en/index.php" target="_blank"> official website</a><br>
 ▪ Taoyuan International Airport(TPE)：<a href="https://www.taoyuan-airport.com/?lang=en" target="_blank"> official website</a><br>
@@ -526,9 +526,9 @@
 ▪ 新竹市政府Ubikeステーション：<a href="https://www.google.com/maps?q=YouBike 新竹市政府" target="_blank">地図</a>`
         },
          {
-          q: "台湾鉄路株式会社(TRC)🚆<br>・台湾高速鉄道(HSR)🚄<br>・桃園空港MRT🚆<br>・桃園國際機場(TPE)✈️<br>・台北松山機場(TSA)✈️",
+          q: "台湾鉄路株式会社(TRA)🚆<br>・台湾高速鉄道(HSR)🚄<br>・桃園空港MRT🚆<br>・桃園國際機場(TPE)✈️<br>・台北松山機場(TSA)✈️",
           a: `
-▪ 台湾鉄路株式会社(TRC) ：<a href="https://tip.railway.gov.tw/tra-tip-web/tip?lang=JA_JP" target="_blank"> 公式ウェブサイト</a><br>
+▪ 台湾鉄路株式会社(TRA) ：<a href="https://tip.railway.gov.tw/tra-tip-web/tip?lang=JA_JP" target="_blank"> 公式ウェブサイト</a><br>
 ▪ 台湾高速鉄道(HSR)：<a href="https://jp.thsrc.com.tw/ArticleContent/07a7dfcc-1910-485f-a296-699ff11efb46"_blank"> 公式ウェブサイト</a><br>
 ▪ 桃園MRT・桃園空港MRT：<a href="https://www.tymetro.com.tw/tymetro-new/jp/index.php" target="_blank"> 公式ウェブサイト</a><br>
 ▪ 桃園國際機場(TPE)：<a href="https://www.taoyuan-airport.com/?lang=jp" target="_blank"> 公式ウェブサイト</a><br>
