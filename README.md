@@ -184,7 +184,7 @@
  {
           q: "迎曦飯店 → 桃園國際機場 交通方式?　",
           a: `
-▪ 台灣高鐵：從 新竹高鐵站 搭乘至 桃園高鐵站，轉乘「機場捷運」直達機場。⏱ 約 60–70 分鐘<br>
+▪ 台灣高鐵：新竹高鐵站 → 桃園高鐵站 → 機場捷運 → 桃園機場。⏱ 約 60–70 分鐘<br>
 ▪ 客運：搭乘 日豪客運 1250 機場巴士，「新竹轉運站」直達桃園國際機場。⏱ 約 90–100 分鐘。
 ➡️日豪客運：<a href="https://www.taiwanbus.tw/eBUSPage/Query/QueryResult.aspx?rno=12500&rn=1755744773691&lan=C" target="_blank"> 公路客運即時動態資訊網</a>
 ➡️新竹轉運站：<a href="https://www.google.com/maps?q=新竹轉運站" target="_blank">地圖</a><br>
@@ -371,6 +371,14 @@
 ▪ Taoyuan International Airport(TPE)：<a href="https://www.taoyuan-airport.com/?lang=en" target="_blank"> official website</a><br>
 ▪ Taipei Songshan Airport(TSA)：<a href="https://www.tsa.gov.tw/?id=ef81d612-6ca0-4e0f-9459-30bfb8c9523f&culture=2" target="_blank">official website</a>`
         },
+
+        {
+          q: "SOL Hotel → Taoyuan International Airport?　",
+          a: `
+▪ Taiwan High Speed Rail(HSR)：Hsinchu HSR → Taoyuan HSR → Airport MRT → Airport ⏱ About 60–70 min<br>
+▪ Taxi：SOL Hotel → Taoyuan International Airport ⏱ About 50–60 min`
+        },
+        
         {
           q: "Recommended nearby breakfast shops",
           a: `
