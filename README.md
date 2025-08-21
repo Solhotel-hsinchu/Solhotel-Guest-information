@@ -553,6 +553,14 @@
 ▪ 桃園國際機場(TPE)：<a href="https://www.taoyuan-airport.com/?lang=jp" target="_blank"> 公式ウェブサイト</a><br>
 ▪ 台北松山機場(TSA)：<a href="https://www.tsa.gov.tw/?culture=3"_blank">公式ウェブサイト</a>`
         },
+
+        {
+          q: "SOLホテル → 桃園国際空港?　",
+          a: `
+▪ 台湾高速鉄道(HSR)：新竹高鉄駅 → 桃園高鉄駅 → 空港MRT → 桃園空港 ⏱ 約60～70分<br>
+▪ タクシー：ホテル → 桃園国際空港 ⏱ 約50～60分`
+        },
+        
         {
           q: "近隣のおすすめ朝食店",
           a: `
