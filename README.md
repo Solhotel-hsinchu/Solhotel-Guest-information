@@ -188,7 +188,7 @@
 ▪ 客運：搭乘 日豪客運 1250 機場巴士，「新竹轉運站」直達桃園國際機場。⏱ 約 90–100 分鐘 💰約NT$200。 
 ➡️日豪客運：<a href="https://www.taiwanbus.tw/eBUSPage/Query/QueryResult.aspx?rno=12500&rn=1755744773691&lan=C" target="_blank"> 公路客運即時動態資訊網</a>
 ➡️新竹轉運站：<a href="https://www.google.com/maps?q=新竹轉運站" target="_blank">地圖</a><br>
-▪ 計程車：從飯店直達桃園國際機場。⏱ 約 50–60 分鐘`
+▪ 計程車：從飯店直達桃園國際機場。⏱ 約 50–60 分鐘 💰約NT$1600`
         },
         
          {
