@@ -175,11 +175,24 @@
           q: "台灣鐵路・高速鐵路・機場捷運<br>・桃園機場✈️・松山機場✈️　",
           a: `
 ▪ 台灣鐵路：<a href="https://www.railway.gov.tw/tra-tip-web/tip?lang=ZH_TW" target="_blank"> 台鐵官網</a><br>
+▪ 台灣高鐵：<a 從 新竹高鐵站 搭乘至 桃園高鐵站，轉乘「機場捷運」直達機場。
+⏱ 約 60–70 分鐘
+💰 約 NT$300–400</a><br>
+▪ 桃園捷運/機場捷運：<a href="https://www.tymetro.com.tw/tymetro-new/tw/index.php" target="_blank"> 機捷官網</a><br>
+▪ 桃園國際機場：<a href="https://www.taoyuan-airport.com/" target="_blank"> 桃機官網</a><br>
+▪ 台北松山機場：<a href="https://www.tsa.gov.tw/" target="_blank">松山機場</a>`
+        },
+
+ {
+          q: "迎曦飯店 → 桃園國際機場 交通方式?　",
+          a: `
+▪ 台灣鐵路：<a href="https://www.railway.gov.tw/tra-tip-web/tip?lang=ZH_TW" target="_blank"> 台鐵官網</a><br>
 ▪ 台灣高鐵：<a href="https://www.thsrc.com.tw/" target="_blank"> 高鐵官網</a><br>
 ▪ 桃園捷運/機場捷運：<a href="https://www.tymetro.com.tw/tymetro-new/tw/index.php" target="_blank"> 機捷官網</a><br>
 ▪ 桃園國際機場：<a href="https://www.taoyuan-airport.com/" target="_blank"> 桃機官網</a><br>
 ▪ 台北松山機場：<a href="https://www.tsa.gov.tw/" target="_blank">松山機場</a>`
         },
+        
          {
           q: "南寮漁港・清華大學・交通大學交通方式🚌",
           a: `
