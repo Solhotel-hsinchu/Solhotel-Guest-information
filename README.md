@@ -184,7 +184,7 @@
  {
           q: "迎曦飯店 → 桃園國際機場 交通方式?　",
           a: `
-▪ 台灣高鐵：新竹高鐵站 → 桃園高鐵站 → 機場捷運 → 桃園機場。⏱ 約 60–70 分鐘<br>
+▪ 台灣高鐵：新竹高鐵站 → 桃園高鐵站 → 機場捷運 → 桃園機場。⏱ 約 70–80 分鐘<br>
 ▪ 客運：搭乘 日豪客運 1250 機場巴士，「新竹轉運站」直達桃園國際機場。⏱ 約 90–100 分鐘。
 ➡️日豪客運：<a href="https://www.taiwanbus.tw/eBUSPage/Query/QueryResult.aspx?rno=12500&rn=1755744773691&lan=C" target="_blank"> 公路客運即時動態資訊網</a>
 ➡️新竹轉運站：<a href="https://www.google.com/maps?q=新竹轉運站" target="_blank">地圖</a><br>
@@ -375,7 +375,7 @@
         {
           q: "SOL Hotel → Taoyuan International Airport?　",
           a: `
-▪ Taiwan High Speed Rail(HSR)：Hsinchu HSR → Taoyuan HSR → Airport MRT → Airport ⏱ About 60–70 min<br>
+▪ Taiwan High Speed Rail(HSR)：Hsinchu HSR → Taoyuan HSR → Airport MRT → Airport ⏱ About 70–80 min<br>
 ▪ Taxi：SOL Hotel → Taoyuan International Airport ⏱ About 50–60 min`
         },
         
@@ -557,10 +557,16 @@
         {
           q: "SOLホテル → 桃園国際空港?　",
           a: `
-▪ 台湾高速鉄道(HSR)：新竹高鉄駅 → 桃園高鉄駅 → 空港MRT → 桃園空港 ⏱ 約60～70分<br>
+▪ 台湾高速鉄道(HSR)：新竹高鉄駅 → 桃園高鉄駅 → 空港MRT → 桃園空港 ⏱ 約80～90分<br>
 ▪ タクシー：ホテル → 桃園国際空港 ⏱ 約50～60分`
         },
-        
+  {
+          q: "SOLホテル → 台北松山空港?　",
+          a: `
+▪ 台湾高速鉄道(HSR)+MRT：新竹高鉄駅 → 台北駅 → MRT板南線（青）→ 忠孝復興駅 → MRT文湖線（茶）に乗換 → 松山空港 ⏱ 約90～100分<br>
+▪ 台湾鉄路株式会社(TRA)+MRT：新竹駅（台鉄）→ 台北駅 → MRT板南線（青）→ 忠孝復興駅 → MRT文湖線（茶）に乗換 → 松山空港 ⏱ 約110分<br>
+▪ タクシー：ホテル → 松山空港 ⏱ 約90分 
+        },        
         {
           q: "近隣のおすすめ朝食店",
           a: `
