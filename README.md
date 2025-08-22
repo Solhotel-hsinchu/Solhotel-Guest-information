@@ -148,6 +148,7 @@
 ▪ 新竹(南寮漁港)17公里海岸風景區：<a href="https://www.google.com/maps?q=新竹17公里海岸風景區" target="_blank">地圖</a><br>
 ▪ 南寮魚鱗天梯：<a href="https://www.google.com/maps?q=南寮魚鱗天梯" target="_blank">地圖</a><br>
 ▪ 香山濕地賞蟹步道：<a href="https://www.google.com/maps?q=香山濕地賞蟹步道" target="_blank">地圖</a><br>
+▪ 香山車站：<a href="https://www.google.com/maps?q=香山車站" target="_blank">地圖</a><br>
 ▪ 風情海岸：<a href="https://www.google.com/maps?q=風情海岸" target="_blank">地圖</a>`
         },
         {
