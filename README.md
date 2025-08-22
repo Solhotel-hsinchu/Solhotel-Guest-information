@@ -285,6 +285,7 @@
 ▪ 戲棚下Under Six Pound炸雞：<a href="https://www.google.com/maps?q=戲棚下Under Six Pound炸雞" target="_blank">地圖</a><br>
 ▪ 覓雪Mixshare手作雪花冰：<a href="https://www.google.com/maps?q=覓雪Mixshare手作雪花冰" target="_blank">地圖</a><br>
 ▪ 好豆味冰沙豆花：<a href="https://www.google.com/maps?q=好豆味冰沙豆花 勝利路" target="_blank">地圖</a><br>
+▪ 山田麻糬製造所：<a href="https://www.google.com/maps?q=山田麻糬製造所" target="_blank">地圖</a><br>
 ▪ 原夜市鴨肉麵：<a href="https://www.google.com/maps?q=原夜市鴨肉麵 中央路" target="_blank">地圖</a><br>
 ▪ 廟口鴨香飯：<a href="https://www.google.com/maps?q=廟口鴨香飯 中山路" target="_blank">地圖</a>`
         },
@@ -467,6 +468,7 @@
 ▪ Under Six Pound Fried Chicken: <a href="https://www.google.com/maps?q=戲棚下Under Six Pound炸雞" target="_blank">Map</a><br>
 ▪ Mixshare Handmade Shaved Ice: <a href="https://www.google.com/maps?q=覓雪Mixshare手作雪花冰" target="_blank">Map</a><br>
 ▪ Shaved Ice Tofu Pudding：<a href="https://www.google.com/maps?q=好豆味冰沙豆花 勝利路" target="_blank">Map</a><br>
+▪ Yamada Mochi Factory：<a href="https://www.google.com/maps?q=山田麻糬製造所" target="_blank">Map</a><br>
 ▪ Duck Noodles：<a href="https://www.google.com/maps?q=原夜市鴨肉麵 中央路" target="_blank">Map</a><br>
 ▪ Duck Rice：<a href="https://www.google.com/maps?q=廟口鴨香飯 中山路" target="_blank">Map</a>`
         },
@@ -656,6 +658,7 @@
 ▪ 劇場下アンダーシックスパウンド唐揚げ：<a href="https://www.google.com/maps?q=戲棚下Under Six Pound炸雞" target="_blank">地図</a><br>
 ▪ ミックスシェア手作りかき氷：<a href="https://www.google.com/maps?q=覓雪Mixshare手作雪花冰"_blank">地図</a><br>
 ▪ 好豆味冰沙豆花：<a href="https://www.google.com/maps?q=好豆味冰沙豆花 勝利路" target="_blank">地図</a><br>
+▪ 山田もち製造所：<a href="https://www.google.com/maps?q=山田麻糬製造所" target="_blank">Map</a><br>
 ▪ 原夜市鴨肉面：<a href="https://www.google.com/maps?q=原夜市鴨肉麵 中央路" target="_blank">地図</a><br>
 ▪ 廟口鴨香飯：<a href="https://www.google.com/maps?q=廟口鴨香飯 中山路" target="_blank">地圖</a>`
           
