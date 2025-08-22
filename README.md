@@ -156,6 +156,7 @@
 ▪ 新竹都城隍廟：<a href="https://www.google.com/maps?q=新竹都城隍廟" target="_blank">地圖</a><br>
 ▪ 新竹竹蓮寺：<a href="https://www.google.com/maps?q=新竹竹蓮寺" target="_blank">地圖</a><br>
 ▪ 新竹長和宮：<a href="https://www.google.com/maps?q=新竹長和宮" target="_blank">地圖</a><br>
+▪ 新竹天公壇：<a href="https://www.google.com/maps?q=新竹天公壇" target="_blank">地圖</a><br>
 ▪ 關帝廟：<a href="https://www.google.com/maps?q=新竹關帝廟 南門街" target="_blank">地圖</a>`
         },
         {
@@ -347,6 +348,7 @@
 ▪ Hsinchu City God Temple: <a href="https://www.google.com/maps?q=新竹都城隍廟" target="_blank">Map</a><br>
 ▪ Hsinchu Zhulin Temple：<a href="https://www.google.com/maps?q=新竹竹蓮寺" target="_blank">Map</a><br>
 ▪ Changhe Temple: <a href="https://www.google.com/maps?q=新竹長和宮" target="_blank">Map</a><br>
+▪ Hsinchu Tiangong Temple ：<a href="https://www.google.com/maps?q=新竹天公壇" target="_blank">Map</a><br>
 ▪ Guandi Temple: <a href="https://www.google.com/maps?q=新竹關帝廟 南門街" target="_blank">Map</a>`
         },
         {
@@ -529,6 +531,7 @@
 ▪ 新竹都城隍廟：<a href="https://www.google.com/maps?q=新竹都城隍廟" target="_blank">地図</a><br>
 ▪ 新竹竹蓮寺：<a href="https://www.google.com/maps?q=新竹竹蓮寺" target="_blank">地図</a><br>
 ▪ 新竹長和宮：<a href="https://www.google.com/maps?q=新竹長和宮" target="_blank">地図</a><br>
+▪ 新竹天公壇：<a href="https://www.google.com/maps?q=新竹天公壇" target="_blank">地図</a><br>
 ▪ 関帝廟：<a href="https://www.google.com/maps?q=新竹關帝廟 南門街" target="_blank">地図</a>`
         },
         {
