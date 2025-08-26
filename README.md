@@ -257,6 +257,7 @@
           a: `
 ▪ 柚子：<a href="https://www.google.com/maps?q=柚子 文化街" target="_blank">地圖</a><br>
 ▪ 皿富器食 minfood：<a href="https://www.google.com/maps?q=皿富器食 minfood" target="_blank">地圖</a><br>
+▪ 和食川上日本料理：<a href="https://www.google.com/maps?q=和食川上日本料理"_blank">地圖</a><br>
 ▪ 新橋燒肉屋：<a href="https://www.google.com/maps?q=新橋燒肉屋 府後店" target="_blank">地圖</a><br>
 ▪ 私嚐串燒：<a href="https://www.google.com/maps?q=私嚐串燒 中正店"_blank">地圖</a><br>
 ▪ 大阪燒肉 燒魂Yakikon：<a href="https://www.google.com/maps?q=大阪燒肉 燒魂Yakikon 新竹市東區" target="_blank">地圖</a>`
@@ -455,6 +456,7 @@
           a: `
 ▪ Yuzu: <a href="https://www.google.com/maps?q=柚子 文化街" target="_blank">Map</a><br>
 ▪ Minfood:<a href="https://www.google.com/maps?q=皿富器食 minfood" target="_blank">Map</a><br>
+▪ Kawakami Japanese Cuisine：<a href="https://www.google.com/maps?q=和食川上日本料理"_blank">Map</a><br>
 ▪ Shinbashi Yakiniku: <a href="https://www.google.com/maps?q=新橋燒肉屋 府後店" target="_blank">Map</a><br>
 ▪ Private Taste Skewers: <a href="https://www.google.com/maps?q=私嚐串燒 中正店" target="_blank">Map</a><br>
 ▪ Osaka Yakiniku Yakikon: <a href="https://www.google.com/maps?q=大阪燒肉 燒魂Yakikon 新竹市東區" target="_blank">Map</a>`
@@ -658,6 +660,7 @@
           a: `
 ▪ 柚子：<a href="https://www.google.com/maps?q=柚子 文化街" target="_blank">地図</a><br>
 ▪ 皿富器食 minfood：<a href="https://www.google.com/maps?q=皿富器食 minfood" target="_blank">地図</a><br>
+▪ 和食川上日本料理：<a href="https://www.google.com/maps?q=和食川上日本料理"_blank">地図</a><br>
 ▪ 新橋焼肉屋：<a href="https://www.google.com/maps?q=新橋燒肉屋 府後店" target="_blank">地図</a><br>
 ▪ 私嚐串焼：<a href="https://www.google.com/maps?q=私嚐串燒 中正店" target="_blank">地図</a><br>
 ▪ 大阪焼肉 燒魂Yakikon：<a href="https://www.google.com/maps?q=大阪燒肉 燒魂Yakikon 新竹市東區"" target="_blank">地図</a>`
