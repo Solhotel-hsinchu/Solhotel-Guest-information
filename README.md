@@ -418,6 +418,15 @@
 ▪ Summer Coffee: <a href="https://www.google.com/maps?q=夏.咖啡 仁愛街" target="_blank">Map</a><br>
 ▪ Float Dept. Micro Roastery: <a href="https://www.google.com/maps?q=Float Dept.微生咖啡" target="_blank">Map</a>`
         },
+{
+          q: "Recommended Taiwanese Restaurants？",
+          a: `
+▪ Tsai Ji Sesame Oil Chicken：<a href="https://www.google.com/maps?q=蔡記燒酒雞" target="_blank">Map</a><br>
+▪ Shifang Xiaojing：<a href="https://www.google.com/maps?q=石坊小井" target="_blank">Map</a><br>
+▪ 123 Taiwanese Cuisine：<a href="https://www.google.com/maps?q=一二三台灣料理" target="_blank">Map</a><br>
+▪ Long Chang Bistro：<a href="https://www.google.com/maps?q=龍昌小館" target="_blank">Map</a>`
+        },
+        
         {
           q: "Chinese restaurant recommendations?",
           a: `
@@ -608,6 +617,14 @@
 ▪ 百の味（三民店）：<a href="https://www.google.com/maps?q=一百種味道(三民店)" target="_blank">地図</a><br>
 ▪ 夏コーヒー：<a href="https://www.google.com/maps?q=夏.咖啡 仁愛街" target="_blank">地図</a><br>
 ▪ Float Dept.微生コーヒー：<a href="https://www.google.com/maps?q=Float Dept.微生咖啡" target="_blank">地図</a>`
+        },
+        {
+          q: "台湾料理おすすめレストラン？",
+          a: `
+▪ 蔡記 ヌーベル紹興酒鶏：<a href="https://www.google.com/maps?q=蔡記燒酒雞" target="_blank">Map</a><br>
+▪ 石坊小井：<a href="https://www.google.com/maps?q=石坊小井" target="_blank">Map</a><br>
+▪ 一二三台湾料理：<a href="https://www.google.com/maps?q=一二三台灣料理" target="_blank">Map</a><br>
+▪ 龍昌小館：<a href="https://www.google.com/maps?q=龍昌小館" target="_blank">Map</a>`
         },
         {
           q: "中華料理店のおすすめは？",
