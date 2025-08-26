@@ -247,6 +247,7 @@
 ▪ 冪2 La Miette Kitchen：<a href="https://www.google.com/maps?q=冪2 La Miette Kitchen" target="_blank">地圖</a><br>
 ▪ TABLE JOE 喬桌子廚房：<a href="https://www.google.com/maps?q=TABLE JOE 喬桌子廚房" target="_blank">地圖</a><br>
 ▪ 史坦利美式牛排：<a href="https://www.google.com/maps?q=史坦利美式牛排 巨城" target="_blank">地圖</a><br>
+▪ EISEN BISTRO 艾昇小館：<a href="https://www.google.com/maps?q=EISEN BISTRO 艾昇小館" target="_blank">地圖</a><br>
 ▪ 金色三麥 新竹巨城店PARK15：<a href="https://www.google.com/maps?q=金色三麥 新竹巨城店PARK15" target="_blank">地圖</a>`
         },
         {
@@ -441,6 +442,7 @@
 ▪ La Miette Kitchen: <a href="https://www.google.com/maps?q=冪2 La Miette Kitchen" target="_blank">Map</a><br>
 ▪ TABLE JOE Kitchen: <a href="https://www.google.com/maps?q=TABLE JOE 喬桌子廚房" target="_blank">Map</a><br>
 ▪ Stanley American Steakhouse:<a href="https://www.google.com/maps?q=史坦利美式牛排 巨城" target="_blank">Map</a><br>
+▪ EISEN BISTRO：<a href="https://www.google.com/maps?q=EISEN BISTRO 艾昇小館" target="_blank">Map</a><br>
 ▪ Jinse Sanmai Park15, Hsinchu Big City: <a href="https://www.google.com/maps?q=金色三麥 新竹巨城店PARK15" target="_blank">Map</a>`
         },
         {
@@ -640,6 +642,7 @@
 ▪ 冪2 La Miette キッチン：<a href="https://www.google.com/maps?q=冪2 La Miette Kitchen" target="_blank">地図</a><br>
 ▪ TABLE JOE キッチン：<a href="https://www.google.com/maps?q=TABLE JOE 喬桌子廚房" target="_blank">地図</a><br>
 ▪ スタンリー(Stanley)アメリカンステーキハウス：<a href="https://www.google.com/maps?q=史坦利美式牛排 巨城" target="_blank">地図</a><br>
+▪ EISEN BISTRO（アイセン・ビストロ）：<a href="https://www.google.com/maps?q=EISEN BISTRO 艾昇小館" target="_blank">地図</a><br>
 ▪ 金色三麥 新竹巨城店 PARK15：<a href="https://www.google.com/maps?q=金色三麥 新竹巨城店PARK15" target="_blank">地図</a>`
         },
         {
