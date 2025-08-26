@@ -230,6 +230,8 @@
 ▪ 蔡記燒酒雞：<a href="https://www.google.com/maps?q=蔡記燒酒雞" target="_blank">地圖</a><br>
 ▪ 石坊小井：<a href="https://www.google.com/maps?q=石坊小井" target="_blank">地圖</a><br>
 ▪ 一二三台灣料理：<a href="https://www.google.com/maps?q=一二三台灣料理" target="_blank">地圖</a><br>
+▪ 新馬辣經典麻辣鍋-新竹巨城店：<a href="https://www.google.com/maps?q=新馬辣經典麻辣鍋-新竹巨城店" target="_blank">地圖</a><br>
+▪ 漢王薑母鴨 新竹林森路：<a href="https://www.google.com/maps?q=漢王薑母鴨 新竹林森路" target="_blank">地圖</a><br>
 ▪ 龍昌小館：<a href="https://www.google.com/maps?q=龍昌小館" target="_blank">地圖</a>`
         },
         
@@ -426,6 +428,8 @@
 ▪ Tsai Ji Sesame Oil Chicken：<a href="https://www.google.com/maps?q=蔡記燒酒雞" target="_blank">Map</a><br>
 ▪ Shifang Xiaojing：<a href="https://www.google.com/maps?q=石坊小井" target="_blank">Map</a><br>
 ▪ 123 Taiwanese Cuisine：<a href="https://www.google.com/maps?q=一二三台灣料理" target="_blank">Map</a><br>
+▪ Xin Mala Classic Hot Pot(Spicy Sichuan Hot Pot)：<a href="https://www.google.com/maps?q=新馬辣經典麻辣鍋-新竹巨城店" target="_blank">Map</a><br>
+▪ Han Wang Ginger Duck：<a href="https://www.google.com/maps?q=漢王薑母鴨 新竹林森路" target="_blank">Map</a><br>
 ▪ Long Chang Bistro：<a href="https://www.google.com/maps?q=龍昌小館" target="_blank">Map</a>`
         },
         
@@ -625,10 +629,12 @@
         {
           q: "台湾料理おすすめは？",
           a: `
-▪ 蔡記 ヌーベル紹興酒鶏：<a href="https://www.google.com/maps?q=蔡記燒酒雞" target="_blank">Map</a><br>
-▪ 石坊小井：<a href="https://www.google.com/maps?q=石坊小井" target="_blank">Map</a><br>
-▪ 一二三台湾料理：<a href="https://www.google.com/maps?q=一二三台灣料理" target="_blank">Map</a><br>
-▪ 龍昌小館：<a href="https://www.google.com/maps?q=龍昌小館" target="_blank">Map</a>`
+▪ 蔡記 ヌーベル紹興酒鶏：<a href="https://www.google.com/maps?q=蔡記燒酒雞" target="_blank">地図</a><br>
+▪ 石坊小井：<a href="https://www.google.com/maps?q=石坊小井" target="_blank">地図</a><br>
+▪ 一二三台湾料理：<a href="https://www.google.com/maps?q=一二三台灣料理" target="_blank">地図</a><br>
+▪ 新馬辣クラシック火鍋(マーラー火鍋)：<a href="https://www.google.com/maps?q=新馬辣經典麻辣鍋-新竹巨城店" target="_blank">地図</a><br>
+▪ 漢王ジンジャーダック：<a href="https://www.google.com/maps?q=漢王薑母鴨 新竹林森路" target="_blank">地図</a><br>
+▪ 龍昌小館：<a href="https://www.google.com/maps?q=龍昌小館" target="_blank">地図</a>`
         },
         {
           q: "中華料理店のおすすめは？",
