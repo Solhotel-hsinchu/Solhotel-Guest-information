@@ -420,7 +420,7 @@
 ▪ Float Dept. Micro Roastery: <a href="https://www.google.com/maps?q=Float Dept.微生咖啡" target="_blank">Map</a>`
         },
 {
-          q: "Recommended Taiwanese Restaurants？",
+          q: "Taiwanese Restaurants Recommended ？",
           a: `
 ▪ Tsai Ji Sesame Oil Chicken：<a href="https://www.google.com/maps?q=蔡記燒酒雞" target="_blank">Map</a><br>
 ▪ Shifang Xiaojing：<a href="https://www.google.com/maps?q=石坊小井" target="_blank">Map</a><br>
@@ -429,7 +429,7 @@
         },
         
         {
-          q: "Chinese restaurant recommendations?",
+          q: "Chinese restaurants recommendations?",
           a: `
 ▪ Vegetable Garden Shanghai Restaurant: <a href="https://www.google.com/maps?q=菜園上海餐廳" target="_blank">Map</a><br>
 ▪ Enjoy Duck Roasted Duck: <a href="https://www.google.com/maps?q=享鴨 烤鴨與中華料理 新竹北大店" target="_blank">Map</a><br>
@@ -437,7 +437,7 @@
 ▪ New Bridge Alley: <a href="https://www.google.com/maps?q=新橋弄堂"target="_blank">Map</a>`
         },
         {
-          q: "Western restaurant recommendations?",
+          q: "Western restaurants recommendations?",
           a: `
 ▪ La Miette Kitchen: <a href="https://www.google.com/maps?q=冪2 La Miette Kitchen" target="_blank">Map</a><br>
 ▪ TABLE JOE Kitchen: <a href="https://www.google.com/maps?q=TABLE JOE 喬桌子廚房" target="_blank">Map</a><br>
@@ -446,7 +446,7 @@
 ▪ Jinse Sanmai Park15, Hsinchu Big City: <a href="https://www.google.com/maps?q=金色三麥 新竹巨城店PARK15" target="_blank">Map</a>`
         },
         {
-          q: "Japanese restaurant recommendations?",
+          q: "Japanese restaurants recommendations?",
           a: `
 ▪ Yuzu: <a href="https://www.google.com/maps?q=柚子 文化街" target="_blank">Map</a><br>
 ▪ Minfood:<a href="https://www.google.com/maps?q=皿富器食 minfood" target="_blank">Map</a><br>
@@ -455,7 +455,7 @@
 ▪ Osaka Yakiniku Yakikon: <a href="https://www.google.com/maps?q=大阪燒肉 燒魂Yakikon 新竹市東區" target="_blank">Map</a>`
         },
         {
-          q: "Vegetarian🥗 restaurant recommendations?",
+          q: "Vegetarian🥗 restaurants recommendations?",
           a: `
 ▪ Guoting Vegetarian Kitchen：<a href="https://www.google.com/maps?q=果庭蔬食廚房" target="_blank">Map</a><br>
 ▪ V-Element Vegetarian Kitchen：<a href="https://www.google.com/maps?q=森活原素 V-Element 蔬食餐廳" target="_blank">Map</a><br>
@@ -621,7 +621,7 @@
 ▪ Float Dept.微生コーヒー：<a href="https://www.google.com/maps?q=Float Dept.微生咖啡" target="_blank">地図</a>`
         },
         {
-          q: "台湾料理おすすめレストラン？",
+          q: "台湾料理おすすめは？",
           a: `
 ▪ 蔡記 ヌーベル紹興酒鶏：<a href="https://www.google.com/maps?q=蔡記燒酒雞" target="_blank">Map</a><br>
 ▪ 石坊小井：<a href="https://www.google.com/maps?q=石坊小井" target="_blank">Map</a><br>
