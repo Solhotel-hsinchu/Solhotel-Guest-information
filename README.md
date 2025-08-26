@@ -224,6 +224,15 @@
 ▪ 夏.咖啡：<a href="https://www.google.com/maps?q=夏.咖啡 仁愛街" target="_blank">地圖</a><br>
 ▪ Float Dept.微生咖啡：<a href="https://www.google.com/maps?q=Float Dept.微生咖啡" target="_blank">地圖</a>`
         },
+{
+          q: "台式餐廳推薦？",
+          a: `
+▪ 蔡記燒酒雞：<a href="https://www.google.com/maps?q=蔡記燒酒雞" target="_blank">地圖</a><br>
+▪ 石坊小井：<a href="https://www.google.com/maps?q=石坊小井" target="_blank">地圖</a><br>
+▪ 一二三台灣料理：<a href="https://www.google.com/maps?q=一二三台灣料理" target="_blank">地圖</a><br>
+▪ 龍昌小館：<a href="https://www.google.com/maps?q=龍昌小館" target="_blank">地圖</a>`
+        },
+        
         {
           q: "中式餐廳推薦？",
           a: `
