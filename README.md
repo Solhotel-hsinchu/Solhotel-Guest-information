@@ -284,6 +284,7 @@
 ▪ 東京純豆腐新竹SOGO店(韓式)：<a href="https://www.google.com/maps?q=東京純豆腐Tokyo Sundubu 新竹SOGO店" target="_blank">地圖</a><br>
 ▪ 姜滿堂존맛탱 新竹巨城店：<a href="https://www.google.com/maps?q=姜滿堂존맛탱 新竹巨城店" target="_blank">地圖</a><br>
 ▪ 達達印度料理：<a href="https://www.google.com/maps?q=達達印度料理(新竹店)(原 印度小鎮)Burans Indian Kitchen in Hsinchu (Indian Town)" target="_blank">地圖</a><br>
+▪ 美陽光印度餐廳：<a href="https://www.google.com/maps?q=美陽光印度餐廳Sunshine Indian Restaurant Hsinchu" target="_blank">地圖</a><br>
 ▪ MAS India Restaurant 媽媽印度料理：<a href="https://www.google.com/maps?q=MAS India Restaurant 媽媽印度料理" target="_blank">地圖</a>`
         },
         {
@@ -481,9 +482,10 @@
 ▪ Qingdan Zhaxi (Tibetan Cuisine)：<a href="https://www.google.com/maps?q=青丹扎西 東門市場店" target="_blank">Map</a><br>
 ▪ El Mundo Mexican Cuisine：<a href="https://www.google.com/maps?q=El Mundo墨多" target="_blank">Map</a><br>
 ▪ Sultan Turkish Kitchen: <a href="https://www.google.com/maps?q=蘇丹土耳其廚房" target="_blank">Map</a><br>
-▪ Tokyo Sundubu Hsinchu SOGO Branch (Korean Cuisine)：<a href="https://www.google.com/maps?q=東京純豆腐Tokyo Sundubu 新竹SOGO店" target="_blank">地圖</a><br>
-▪ Jiang Man Tang Jonmattaeng (Korean Cuisine)：<a href="https://www.google.com/maps?q=姜滿堂존맛탱 新竹巨城店" target="_blank">地圖</a><br>
+▪ Tokyo Sundubu Hsinchu SOGO Branch (Korean Cuisine)：<a href="https://www.google.com/maps?q=東京純豆腐Tokyo Sundubu 新竹SOGO店" target="_blank">>Map</a><br>
+▪ Jiang Man Tang Jonmattaeng (Korean Cuisine)：<a href="https://www.google.com/maps?q=姜滿堂존맛탱 新竹巨城店" target="_blank">>Map</a><br>
 ▪ Dada Indian Cuisine: <a href="https://www.google.com/maps?q=達達印度料理(新竹店)(原 印度小鎮)Burans Indian Kitchen in Hsinchu (Indian Town)" target="_blank">Map</a><br>
+▪ Sunshine Indian Restaurant：<a href="https://www.google.com/maps?q=美陽光印度餐廳Sunshine Indian Restaurant Hsinchu" target="_blank">Map</a><br>
 ▪ MAS India Restaurant:<a href="https://www.google.com/maps?q=MAS India Restaurant 媽媽印度料理" target="_blank">Map</a>`
         },
         {
@@ -690,6 +692,7 @@
 ▪ 東京純豆腐新竹SOGO店（韓国料理）：<a href="https://www.google.com/maps?q=東京純豆腐Tokyo Sundubu 新竹SOGO店" target="_blank">地図</a><br>
 ▪ 姜満堂 존맛탱（韓国料理）：<a href="https://www.google.com/maps?q=姜滿堂존맛탱 新竹巨城店" target="_blank">地圖</a><br>
 ▪ ダダ・インド料理：<a href="https://www.google.com/maps?q=達達印度料理(新竹店)(原 印度小鎮)Burans Indian Kitchen in Hsinchu (Indian Town)" target="_blank">地図</a><br>
+▪ サンシャイン・インディアンレストラン：<a href="https://www.google.com/maps?q=美陽光印度餐廳Sunshine Indian Restaurant Hsinchu" target="_blank">地図</a><br>
 ▪ MASインドレストラン：<a href="https://www.google.com/maps?q=MAS India Restaurant 媽媽印度料理" target="_blank">地図</a>`
         },
         {
