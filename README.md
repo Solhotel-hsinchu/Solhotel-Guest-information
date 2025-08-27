@@ -278,6 +278,7 @@
 ▪ 點22港式點心：<a href="https://www.google.com/maps?q=點22港式點心-新竹東門店" target="_blank">地圖</a><br>
 ▪ 132官舍餐酒館Bistro：<a href="https://www.google.com/maps?q=132官舍/新竹州警務部部長官舍(餐酒館Bistro)" target="_blank">地圖</a><br>
 ▪ 艷麗Pondok Sunny(星馬料理)：<a href="https://www.google.com/maps?q=艷麗Pondok Sunny" target="_blank">地圖</a><br>
+▪ 青丹扎西(西藏料理)東門市場店：<a href="https://www.google.com/maps?q=青丹扎西 東門市場店" target="_blank">地圖</a><br>
 ▪ El Mundo墨多：<a href="https://www.google.com/maps?q=El Mundo墨多" target="_blank">地圖</a><br>
 ▪ 蘇丹土耳其廚房：<a href="https://www.google.com/maps?q=蘇丹土耳其廚房" target="_blank">地圖</a><br>
 ▪ 東京純豆腐新竹SOGO店(韓式)：<a href="https://www.google.com/maps?q=東京純豆腐Tokyo Sundubu 新竹SOGO店" target="_blank">地圖</a><br>
@@ -477,6 +478,7 @@
 ▪ Dim 22 Hong Kong Dim Sum：<a href="https://www.google.com/maps?q=點22港式點心-新竹東門店" target="_blank">Map</a><br>
 ▪ 132 Officer’s Residence Bistro：<a href="https://www.google.com/maps?q=132官舍/新竹州警務部部長官舍(餐酒館Bistro)" target="_blank">Map</a><br>
 ▪ Yanli Pondok Sunny-Singaporean and Malaysian Cuisine：<a href="https://www.google.com/maps?q=艷麗Pondok Sunny" target="_blank">Map</a><br>
+▪ Qingdan Zhaxi (Tibetan Cuisine)：<a href="https://www.google.com/maps?q=青丹扎西 東門市場店" target="_blank">Map</a><br>
 ▪ El Mundo Mexican Cuisine：<a href="https://www.google.com/maps?q=El Mundo墨多" target="_blank">Map</a><br>
 ▪ Sultan Turkish Kitchen: <a href="https://www.google.com/maps?q=蘇丹土耳其廚房" target="_blank">Map</a><br>
 ▪ Tokyo Sundubu Hsinchu SOGO Branch (Korean Cuisine)：<a href="https://www.google.com/maps?q=東京純豆腐Tokyo Sundubu 新竹SOGO店" target="_blank">地圖</a><br>
@@ -682,7 +684,8 @@
 ▪ 点22 香港飲茶：<a href="https://www.google.com/maps?q=點22港式點心-新竹東門店" target="_blank">地図</a><br>
 ▪ 132官舎ビストロ：<a href="https://www.google.com/maps?q=132官舍/新竹州警務部部長官舍(餐酒館Bistro)" target="_blank">地図</a><br>
 ▪ 艷麗ポンドック・サニー(シンガポール・マレーシア料理)：<a href="https://www.google.com/maps?q=艷麗Pondok Sunny" target="_blank">地図</a><br>
-▪ エル・ムンド墨多(El Mundo)メキシコ料理：<a href="https://www.google.com/maps?q=El Mundo墨多" target="_blank">地図</a><br>
+▪ 青丹扎西（チンダン・ジャシ・チベット料理）：<a href="https://www.google.com/maps?q=青丹扎西 東門市場店" target="_blank">地図</a><br>
+▪ エル・ムンド墨多(El Mundo・メキシコ料理)：<a href="https://www.google.com/maps?q=El Mundo墨多" target="_blank">地図</a><br>
 ▪ スルタン・トルコ料理店：<a href="https://www.google.com/maps?q=蘇丹土耳其廚房" target="_blank">地図</a><br>
 ▪ 東京純豆腐新竹SOGO店（韓国料理）：<a href="https://www.google.com/maps?q=東京純豆腐Tokyo Sundubu 新竹SOGO店" target="_blank">地図</a><br>
 ▪ 姜満堂 존맛탱（韓国料理）：<a href="https://www.google.com/maps?q=姜滿堂존맛탱 新竹巨城店" target="_blank">地圖</a><br>
