@@ -305,7 +305,7 @@
 ▪ 好豆味冰沙豆花：<a href="https://www.google.com/maps?q=好豆味冰沙豆花 勝利路" target="_blank">地圖</a><br>
 ▪ 山田麻糬製造所：<a href="https://www.google.com/maps?q=山田麻糬製造所" target="_blank">地圖</a><br>
 ▪ 原夜市鴨肉麵：<a href="https://www.google.com/maps?q=原夜市鴨肉麵 中央路" target="_blank">地圖</a><br>
-▪ 德龍水潤餅：<a href="https://www.google.com/maps?q=德龍水潤餅" target="_blank">地圖</a><br>
+▪ 薪石窯柴燒窯烤麵包：<a href="https://www.google.com/maps?q=薪石窯柴燒窯烤麵包" target="_blank">地圖</a><br>
 ▪ 廟口鴨香飯：<a href="https://www.google.com/maps?q=廟口鴨香飯 中山路" target="_blank">地圖</a>`
         },
         {
@@ -314,6 +314,7 @@
 ▪ 福源花生醬：<a href="https://www.google.com/maps?q=福源花生醬 新竹市東區東大路一段" target="_blank">地圖</a><br>
 ▪ 新復珍商行(竹塹餅)：<a href="https://www.google.com/maps?q=新復珍商行" target="_blank">地圖</a><br>
 ▪ 淵明餅舖(水蒸蛋糕)：<a href="https://www.google.com/maps?q=淵明餅舖" target="_blank">地圖</a><br>
+▪ 德龍水潤餅：<a href="https://www.google.com/maps?q=德龍水潤餅" target="_blank">地圖</a><br>
 ▪ 進益貢丸：<a href="https://www.google.com/maps?q=進益貢丸新竹市北區北門街"_blank">地圖</a><br>
 ▪ 海瑞貢丸：<a href="https://www.google.com/maps?q=海瑞貢丸新竹西門總店"_blank">地圖</a>`
         }
