@@ -213,6 +213,7 @@
           a: `
 ▪ 星巴克-新竹州圖門市：<a href="https://www.google.com/maps?q=星巴克-新竹州圖門市" target="_blank">地圖</a><br>
 ▪ 九幕咖啡：<a href="https://www.google.com/maps?q=九幕咖啡" target="_blank">地圖</a><br>
+▪ MANO MANO | 新州屋門市：<a href="https://www.google.com/maps?q=MANO MANO | 新州屋門市" target="_blank">地圖</a><br>
 ▪ 種甜：<a href="https://www.google.com/maps?q=種甜" target="_blank">地圖</a><br>
 ▪ 一想一響咖啡：<a href="https://www.google.com/maps?q=一想一響咖啡" target="_blank">地圖</a><br>
 ▪ 李克承博士故居 a-moom：<a href="https://www.google.com/maps?q=李克承博士故居 a-moom(新竹市)" target="_blank">地圖</a><br>
@@ -415,6 +416,7 @@
           a: `
 ▪ Starbucks - Hsinchu State Library Store: <a href="https://www.google.com/maps?q=星巴克-新竹州圖門市" target="_blank">Map</a><br>
 ▪ Jiumu Coffee: <a href="https://www.google.com/maps?q=九幕咖啡" target="_blank">Map</a><br>
+▪ MANO MANO：<a href="https://www.google.com/maps?q=MANO MANO | 新州屋門市" target="_blank">Map</a><br>
 ▪ Seed Sweet Coffee(No Fixed Holidays)：<a href="https://www.google.com/maps?q=種甜" target="_blank">Map</a><br>
 ▪ ReEcho Coffee：<a href="https://www.google.com/maps?q=一想一響咖啡" target="_blank">Map</a><br>
 ▪ Former Residence of Dr. Lee Ko-Cheng (A-Moom)：<a href="https://www.google.com/maps?q=李克承博士故居 a-moom(新竹市)" target="_blank">Map</a><br>
@@ -622,6 +624,7 @@
           a: `
 ▪ スターバックス -(Starbucks 新竹州図書館店)：<a href="https://www.google.com/maps?q=新竹州圖書館" target="_blank">地図</a><br>
 ▪ 九幕コーヒー：<a href="https://www.google.com/maps?q=九幕咖啡" target="_blank">地図</a><br>
+▪ MANO MANO：<a href="https://www.google.com/maps?q=MANO MANO | 新州屋門市" target="_blank">地図</a><br>
 ▪ 種甜 (不定休)：<a href="https://www.google.com/maps?q=種甜" target="_blank">地図</a><br>
 ▪ リ・エコー・コーヒー：<a href="https://www.google.com/maps?q=一想一響咖啡" target="_blank">地図</a><br>
 ▪ 李克承博士旧宅（エームーム・A-Moom)：<a href="https://www.google.com/maps?q=李克承博士故居 a-moom(新竹市)" target="_blank">Map</a><br>
