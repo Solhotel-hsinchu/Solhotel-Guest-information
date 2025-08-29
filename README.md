@@ -287,6 +287,7 @@
 ▪ 姜滿堂존맛탱 新竹巨城店：<a href="https://www.google.com/maps?q=姜滿堂존맛탱 新竹巨城店" target="_blank">地圖</a><br>
 ▪ 達達印度料理：<a href="https://www.google.com/maps?q=達達印度料理(新竹店)(原 印度小鎮)Burans Indian Kitchen in Hsinchu (Indian Town)" target="_blank">地圖</a><br>
 ▪ 美陽光印度餐廳：<a href="https://www.google.com/maps?q=美陽光印度餐廳Sunshine Indian Restaurant Hsinchu" target="_blank">地圖</a><br>
+▪ 淇里思印度餐廳 新竹店：<a href="https://www.google.com/maps?q=淇里思 新竹店" target="_blank">Map</a><br>
 ▪ MAS India Restaurant 媽媽印度料理：<a href="https://www.google.com/maps?q=MAS India Restaurant 媽媽印度料理" target="_blank">地圖</a>`
         },
         {
@@ -479,7 +480,7 @@
 ▪ 82 Qin Shi: <a href="https://www.google.com/maps?q=八二親食-三民店" target="_blank">Map</a>`
         },
         {
-          q: "International cuisine recommendations?",
+          q: "Indian & International Cuisine Recommendations?",
           a: `
 ▪ Dim 22 Hong Kong Dim Sum：<a href="https://www.google.com/maps?q=點22港式點心-新竹東門店" target="_blank">Map</a><br>
 ▪ 132 Officer’s Residence Bistro：<a href="https://www.google.com/maps?q=132官舍/新竹州警務部部長官舍(餐酒館Bistro)" target="_blank">Map</a><br>
@@ -491,6 +492,7 @@
 ▪ Jiang Man Tang Jonmattaeng (Korean Cuisine)：<a href="https://www.google.com/maps?q=姜滿堂존맛탱 新竹巨城店" target="_blank">Map</a><br>
 ▪ Dada Indian Cuisine: <a href="https://www.google.com/maps?q=達達印度料理(新竹店)(原 印度小鎮)Burans Indian Kitchen in Hsinchu (Indian Town)" target="_blank">Map</a><br>
 ▪ Sunshine Indian Restaurant：<a href="https://www.google.com/maps?q=美陽光印度餐廳Sunshine Indian Restaurant Hsinchu" target="_blank">Map</a><br>
+▪ CHILLIESINE Indian Restaurantt：<a href="https://www.google.com/maps?q=淇里思 新竹店" target="_blank">Map</a><br>
 ▪ MAS India Restaurant:<a href="https://www.google.com/maps?q=MAS India Restaurant 媽媽印度料理" target="_blank">Map</a>`
         },
         {
@@ -700,6 +702,7 @@
 ▪ 姜満堂 존맛탱（韓国料理）：<a href="https://www.google.com/maps?q=姜滿堂존맛탱 新竹巨城店" target="_blank">地圖</a><br>
 ▪ ダダ・インド料理：<a href="https://www.google.com/maps?q=達達印度料理(新竹店)(原 印度小鎮)Burans Indian Kitchen in Hsinchu (Indian Town)" target="_blank">地図</a><br>
 ▪ サンシャイン・インディアンレストラン：<a href="https://www.google.com/maps?q=美陽光印度餐廳Sunshine Indian Restaurant Hsinchu" target="_blank">地図</a><br>
+▪ CHILLIESINE インド料理レストラン：<a href="https://www.google.com/maps?q=淇里思 新竹店" target="_blank">Map</a><br>
 ▪ MASインドレストラン：<a href="https://www.google.com/maps?q=MAS India Restaurant 媽媽印度料理" target="_blank">地図</a>`
         },
         {
