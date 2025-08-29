@@ -690,7 +690,7 @@
 ▪ 八二親食：<a href="https://www.google.com/maps?q=八二親食-三民店" target="_blank">地図</a>`
         },
         {
-          q: "エスニック料理のおすすめは？",
+          q: "インド料理＆各国料理のおすすめ？",
           a: `
 ▪ 点22 香港飲茶：<a href="https://www.google.com/maps?q=點22港式點心-新竹東門店" target="_blank">地図</a><br>
 ▪ 132官舎ビストロ：<a href="https://www.google.com/maps?q=132官舍/新竹州警務部部長官舍(餐酒館Bistro)" target="_blank">地図</a><br>
