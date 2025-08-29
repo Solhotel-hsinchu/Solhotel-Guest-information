@@ -202,11 +202,11 @@
 ▪ 交通大學雙校區、清華大學光復校區-新竹客運0020_2路公車：<a href="http://www.hcbus.com.tw/big5/information-2.asp?select=2&button=%E9%80%81%E5%87%BA" target="_blank"> 新竹客運官網</a>`
         },
         {
-          q: "鄰近早餐店推薦？",
+          q: "🚶鄰近早餐店推薦？",
           a: `
-▪ 🚶義式屋古拉爵：<a href="https://www.google.com/maps?q=義式屋古拉爵 新竹迎曦店" target="_blank">地圖</a><br>
-▪ 🚶山東早點-眷村龎：<a href="https://www.google.com/maps?q=眷村龎"target="_blank">地圖</a><br>
-▪ 🚶星巴克-新竹州圖門市：<a href="https://www.google.com/maps?q=星巴克-新竹州圖門市" target="_blank">地圖</a>`
+▪ 義式屋古拉爵：<a href="https://www.google.com/maps?q=義式屋古拉爵 新竹迎曦店" target="_blank">地圖</a><br>
+▪ 山東早點-眷村龎：<a href="https://www.google.com/maps?q=眷村龎"target="_blank">地圖</a><br>
+▪ 星巴克-新竹州圖門市：<a href="https://www.google.com/maps?q=星巴克-新竹州圖門市" target="_blank">地圖</a>`
         },
         {
           q: "咖啡☕和下午茶推薦？",
