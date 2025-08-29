@@ -233,6 +233,7 @@
 ▪ 一二三台灣料理：<a href="https://www.google.com/maps?q=一二三台灣料理" target="_blank">地圖</a><br>
 ▪ 新馬辣經典麻辣鍋-新竹巨城店：<a href="https://www.google.com/maps?q=新馬辣經典麻辣鍋-新竹巨城店" target="_blank">地圖</a><br>
 ▪ 漢王薑母鴨 新竹林森路：<a href="https://www.google.com/maps?q=漢王薑母鴨 新竹林森路" target="_blank">地圖</a><br>
+▪ 鼎泰豐 新竹店：<a href="https://www.google.com/maps?q=鼎泰豐 新竹店" target="_blank">地圖</a><br>
 ▪ 龍昌小館：<a href="https://www.google.com/maps?q=龍昌小館" target="_blank">地圖</a>`
         },
         
@@ -436,6 +437,7 @@
 ▪ 123 Taiwanese Cuisine：<a href="https://www.google.com/maps?q=一二三台灣料理" target="_blank">Map</a><br>
 ▪ Xin Mala Classic Hot Pot(Spicy Sichuan Hot Pot)：<a href="https://www.google.com/maps?q=新馬辣經典麻辣鍋-新竹巨城店" target="_blank">Map</a><br>
 ▪ Han Wang Ginger Duck：<a href="https://www.google.com/maps?q=漢王薑母鴨 新竹林森路" target="_blank">Map</a><br>
+▪ Din Tai Fung(Soup Dumplings)：<a href="https://www.google.com/maps?q=鼎泰豐 新竹店" target="_blank">Map</a><br>
 ▪ Long Chang Bistro：<a href="https://www.google.com/maps?q=龍昌小館" target="_blank">Map</a>`
         },
         
@@ -485,8 +487,8 @@
 ▪ Qingdan Zhaxi (Tibetan Cuisine)：<a href="https://www.google.com/maps?q=青丹扎西 東門市場店" target="_blank">Map</a><br>
 ▪ El Mundo Mexican Cuisine：<a href="https://www.google.com/maps?q=El Mundo墨多" target="_blank">Map</a><br>
 ▪ Sultan Turkish Kitchen: <a href="https://www.google.com/maps?q=蘇丹土耳其廚房" target="_blank">Map</a><br>
-▪ Tokyo Sundubu Hsinchu SOGO Branch (Korean Cuisine)：<a href="https://www.google.com/maps?q=東京純豆腐Tokyo Sundubu 新竹SOGO店" target="_blank">>Map</a><br>
-▪ Jiang Man Tang Jonmattaeng (Korean Cuisine)：<a href="https://www.google.com/maps?q=姜滿堂존맛탱 新竹巨城店" target="_blank">>Map</a><br>
+▪ Tokyo Sundubu Hsinchu SOGO Branch (Korean Cuisine)：<a href="https://www.google.com/maps?q=東京純豆腐Tokyo Sundubu 新竹SOGO店" target="_blank">Map</a><br>
+▪ Jiang Man Tang Jonmattaeng (Korean Cuisine)：<a href="https://www.google.com/maps?q=姜滿堂존맛탱 新竹巨城店" target="_blank">Map</a><br>
 ▪ Dada Indian Cuisine: <a href="https://www.google.com/maps?q=達達印度料理(新竹店)(原 印度小鎮)Burans Indian Kitchen in Hsinchu (Indian Town)" target="_blank">Map</a><br>
 ▪ Sunshine Indian Restaurant：<a href="https://www.google.com/maps?q=美陽光印度餐廳Sunshine Indian Restaurant Hsinchu" target="_blank">Map</a><br>
 ▪ MAS India Restaurant:<a href="https://www.google.com/maps?q=MAS India Restaurant 媽媽印度料理" target="_blank">Map</a>`
@@ -644,7 +646,8 @@
 ▪ 一二三台湾料理：<a href="https://www.google.com/maps?q=一二三台灣料理" target="_blank">地図</a><br>
 ▪ 新馬辣クラシック火鍋(マーラー火鍋)：<a href="https://www.google.com/maps?q=新馬辣經典麻辣鍋-新竹巨城店" target="_blank">地図</a><br>
 ▪ 漢王ジンジャーダック：<a href="https://www.google.com/maps?q=漢王薑母鴨 新竹林森路" target="_blank">地図</a><br>
-▪ 龍昌小館：<a href="https://www.google.com/maps?q=龍昌小館" target="_blank">地図</a>`
+▪ 鼎泰豊・ディンタイフォン・台湾小籠包（ショウロンポウ）：<a href="https://www.google.com/maps?q=鼎泰豐 新竹店" target="_blank">地図</a><br>
+▪ 龍昌小館・上海小籠包：<a href="https://www.google.com/maps?q=龍昌小館" target="_blank">地図</a>`
         },
         {
           q: "中華料理店のおすすめは？",
