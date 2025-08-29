@@ -113,7 +113,7 @@
         },
         
         {
-          q: "飯店周邊古蹟景點",
+          q: "🚶飯店周邊古蹟景點",
           a: `
 ▪ 新竹州圖書館：<a href="https://www.google.com/maps?q=新竹州圖書館" target="_blank">地圖</a><br>
 ▪ 東門迎曦門：<a href="https://www.google.com/maps?q=東門迎曦門" target="_blank">地圖</a><br>
@@ -129,7 +129,7 @@
         },
         {
           q: "飯店鄰近夜市",
-          a: `▪ 每日：城隍廟夜市：<a href="https://www.google.com/maps?q=新竹市城隍廟夜市" target="_blank">地圖</a><br>
+          a: `▪ 🚶每日：城隍廟夜市：<a href="https://www.google.com/maps?q=新竹市城隍廟夜市" target="_blank">地圖</a><br>
            ▪ 週二、週四：新竹後站夜市：<a href="https://www.google.com/maps?q=新竹後站夜市" target="_blank">地圖</a><br>
           ▪ 週三、週五：樹林頭夜市：<a href="https://www.google.com/maps?q=樹林頭夜市" target="_blank">地圖</a><br>
          ▪ 週六、週日 11:00~19:00：新竹假日花市：<a href="https://www.google.com/maps?q=新竹假日花市" target="_blank">地圖</a>`
@@ -155,7 +155,7 @@
           q: "飯店周邊宮廟景點",
           a: `
 ▪ 東寧宮：<a href="https://www.google.com/maps?q=東寧宮" target="_blank">地圖</a><br>
-▪ 新竹都城隍廟：<a href="https://www.google.com/maps?q=新竹都城隍廟" target="_blank">地圖</a><br>
+▪ 🚶新竹都城隍廟：<a href="https://www.google.com/maps?q=新竹都城隍廟" target="_blank">地圖</a><br>
 ▪ 新竹竹蓮寺：<a href="https://www.google.com/maps?q=新竹竹蓮寺" target="_blank">地圖</a><br>
 ▪ 新竹長和宮：<a href="https://www.google.com/maps?q=新竹長和宮" target="_blank">地圖</a><br>
 ▪ 新竹天公壇：<a href="https://www.google.com/maps?q=新竹天公壇" target="_blank">地圖</a><br>
@@ -164,7 +164,7 @@
         {
           q: "鄰近購物百貨",
           a: `
-▪ 巨城購物中心：<a href="https://www.google.com/maps?q=巨城購物中心" target="_blank">地圖</a><br>
+▪ 🚶巨城購物中心：<a href="https://www.google.com/maps?q=巨城購物中心" target="_blank">地圖</a><br>
 ▪ 大魯閣湳雅廣場：<a href="https://www.google.com/maps?q=大魯閣湳雅廣場" target="_blank">地圖</a><br>
 ▪ 新竹大遠百：<a href="https://www.google.com/maps?q=新竹大遠百" target="_blank">地圖</a>`
         },
@@ -177,7 +177,7 @@
          {
           q: "台灣鐵路・高速鐵路・機場捷運<br>・桃園機場✈️・松山機場✈️　",
           a: `
-▪ 台灣鐵路：<a href="https://www.railway.gov.tw/tra-tip-web/tip?lang=ZH_TW" target="_blank"> 台鐵官網</a><br>
+▪ 🚶台灣鐵路：<a href="https://www.railway.gov.tw/tra-tip-web/tip?lang=ZH_TW" target="_blank"> 台鐵官網</a><br>
 ▪ 台灣高鐵：<a href="https://www.thsrc.com.tw/" target="_blank"> 高鐵官網</a><br>
 ▪ 桃園捷運/機場捷運：<a href="https://www.tymetro.com.tw/tymetro-new/tw/index.php" target="_blank"> 機捷官網</a><br>
 ▪ 桃園國際機場：<a href="https://www.taoyuan-airport.com/" target="_blank"> 桃機官網</a><br>
@@ -188,7 +188,7 @@
           q: "迎曦飯店 → 桃園國際機場 交通方式?　",
           a: `
 ▪ 台灣高鐵：新竹高鐵站 → 桃園高鐵站 → 機場捷運 → 桃園機場。⏱ 約 70–80 分鐘 💰約NT$300-$500<br>
-▪ 客運：搭乘 日豪客運 1250 機場巴士，「新竹轉運站」直達桃園國際機場。⏱ 約 90–100 分鐘 💰約NT$200。 
+▪ 🚶客運：搭乘 日豪客運 1250 機場巴士，「新竹轉運站」直達桃園國際機場。⏱ 約 90–100 分鐘 💰約NT$200。 
 ➡️日豪客運：<a href="https://www.taiwanbus.tw/eBUSPage/Query/QueryResult.aspx?rno=12500&rn=1755744773691&lan=C" target="_blank"> 公路客運即時動態資訊網</a>
 ➡️新竹轉運站：<a href="https://www.google.com/maps?q=新竹轉運站" target="_blank">地圖</a><br>
 ▪ 計程車：從飯店直達桃園國際機場。⏱ 約 50–60 分鐘 💰約NT$1600`
@@ -202,7 +202,7 @@
 ▪ 交通大學雙校區、清華大學光復校區-新竹客運0020_2路公車：<a href="http://www.hcbus.com.tw/big5/information-2.asp?select=2&button=%E9%80%81%E5%87%BA" target="_blank"> 新竹客運官網</a>`
         },
         {
-          q: "鄰近早餐店推薦？",
+          q: "🚶鄰近早餐店推薦？",
           a: `
 ▪ 義式屋古拉爵：<a href="https://www.google.com/maps?q=義式屋古拉爵 新竹迎曦店" target="_blank">地圖</a><br>
 ▪ 山東早點-眷村龎：<a href="https://www.google.com/maps?q=眷村龎"target="_blank">地圖</a><br>
