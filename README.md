@@ -275,7 +275,7 @@
 ▪ 八二親食-三民店：<a href="https://www.google.com/maps?q=八二親食-三民店" target="_blank">地圖</a>`
         },
         {
-          q: "異國料理推薦？",
+          q: "印度料理與國際美食推薦？",
           a: `
 ▪ 點22港式點心：<a href="https://www.google.com/maps?q=點22港式點心-新竹東門店" target="_blank">地圖</a><br>
 ▪ 132官舍餐酒館Bistro：<a href="https://www.google.com/maps?q=132官舍/新竹州警務部部長官舍(餐酒館Bistro)" target="_blank">地圖</a><br>
