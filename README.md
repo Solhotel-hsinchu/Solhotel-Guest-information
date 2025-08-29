@@ -646,8 +646,8 @@
 ▪ 一二三台湾料理：<a href="https://www.google.com/maps?q=一二三台灣料理" target="_blank">地図</a><br>
 ▪ 新馬辣クラシック火鍋(マーラー火鍋)：<a href="https://www.google.com/maps?q=新馬辣經典麻辣鍋-新竹巨城店" target="_blank">地図</a><br>
 ▪ 漢王ジンジャーダック：<a href="https://www.google.com/maps?q=漢王薑母鴨 新竹林森路" target="_blank">地図</a><br>
-▪ 鼎泰豊・ディンタイフォン・台湾小籠包（ショウロンポウ）：<a href="https://www.google.com/maps?q=鼎泰豐 新竹店" target="_blank">地図</a><br>
-▪ 龍昌小館・上海小籠包：<a href="https://www.google.com/maps?q=龍昌小館" target="_blank">地図</a>`
+▪ 鼎泰豊・ディンタイフォン・台湾薄皮小籠包（ショウロンポウ）：<a href="https://www.google.com/maps?q=鼎泰豐 新竹店" target="_blank">地図</a><br>
+▪ 龍昌小館・上海厚皮小籠包：<a href="https://www.google.com/maps?q=龍昌小館" target="_blank">地図</a>`
         },
         {
           q: "中華料理店のおすすめは？",
