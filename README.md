@@ -140,7 +140,7 @@
 ▪ 🚶新竹都城隍廟：<a href="https://www.google.com/maps?q=新竹都城隍廟" target="_blank">地圖</a><br>
 ▪ 🚶新竹公園：<a href="https://www.google.com/maps?q=新竹公園 都會公園" target="_blank">地圖</a><br>
 ▪ 🚶新竹市立動物園：<a href="https://www.google.com/maps?q=新竹市立動物園" target="_blank">地圖</a><br>
-▪ 🚶 新竹市玻璃工藝博物館：<a href="https://www.google.com/maps?q=新竹市玻璃工藝博物館" target="_blank">地圖</a><br>
+▪ 🚶新竹市玻璃工藝博物館：<a href="https://www.google.com/maps?q=新竹市玻璃工藝博物館" target="_blank">地圖</a><br>
 ▪ 將軍村：<a href="https://www.google.com/maps?q=將軍村" target="_blank">地圖</a><br>
 ▪ 市定古蹟-新竹水道取水口展示館(周一及周五戲水池清潔消毒不開放)：<a href="https://www.google.com/maps?q=市定古蹟-新竹水道取水口展示館(周一及周五戲水池清潔消毒不開放)" target="_blank">地圖</a><br>
 ▪ 青草湖：<a href="https://www.google.com/maps?q=青草湖" target="_blank">地圖</a><br>
@@ -154,11 +154,11 @@
         {
           q: "飯店周邊宮廟景點",
           a: `
-▪ 東寧宮：<a href="https://www.google.com/maps?q=東寧宮" target="_blank">地圖</a><br>
+▪ 🚶東寧宮：<a href="https://www.google.com/maps?q=東寧宮" target="_blank">地圖</a><br>
 ▪ 🚶新竹都城隍廟：<a href="https://www.google.com/maps?q=新竹都城隍廟" target="_blank">地圖</a><br>
 ▪ 新竹竹蓮寺：<a href="https://www.google.com/maps?q=新竹竹蓮寺" target="_blank">地圖</a><br>
 ▪ 新竹長和宮：<a href="https://www.google.com/maps?q=新竹長和宮" target="_blank">地圖</a><br>
-▪ 新竹天公壇：<a href="https://www.google.com/maps?q=新竹天公壇" target="_blank">地圖</a><br>
+▪ 🚗新竹天公壇：<a href="https://www.google.com/maps?q=新竹天公壇" target="_blank">地圖</a><br>
 ▪ 關帝廟：<a href="https://www.google.com/maps?q=新竹關帝廟 南門街" target="_blank">地圖</a>`
         },
         {
@@ -172,7 +172,7 @@
           q: "鄰近YouBike單車借用站🚴",
           a: `
 ⚠️YouBike使用說明：<a href="https://www.youbike.com.tw/region/main/" target="_blank"> YouBike官網</a><br>
-▪ 新竹市政府YouBike站 <a href="https://www.google.com/maps?q=YouBike 新竹市政府" target="_blank">地圖</a>`
+▪ 🚶新竹市政府YouBike站 <a href="https://www.google.com/maps?q=YouBike 新竹市政府" target="_blank">地圖</a>`
         },
          {
           q: "台灣鐵路・高速鐵路・機場捷運<br>・桃園機場✈️・松山機場✈️　",
@@ -202,11 +202,11 @@
 ▪ 交通大學雙校區、清華大學光復校區-新竹客運0020_2路公車：<a href="http://www.hcbus.com.tw/big5/information-2.asp?select=2&button=%E9%80%81%E5%87%BA" target="_blank"> 新竹客運官網</a>`
         },
         {
-          q: "🚶鄰近早餐店推薦？",
+          q: "鄰近早餐店推薦？",
           a: `
-▪ 義式屋古拉爵：<a href="https://www.google.com/maps?q=義式屋古拉爵 新竹迎曦店" target="_blank">地圖</a><br>
-▪ 山東早點-眷村龎：<a href="https://www.google.com/maps?q=眷村龎"target="_blank">地圖</a><br>
-▪ 星巴克-新竹州圖門市：<a href="https://www.google.com/maps?q=星巴克-新竹州圖門市" target="_blank">地圖</a>`
+▪ 🚶義式屋古拉爵：<a href="https://www.google.com/maps?q=義式屋古拉爵 新竹迎曦店" target="_blank">地圖</a><br>
+▪ 🚶山東早點-眷村龎：<a href="https://www.google.com/maps?q=眷村龎"target="_blank">地圖</a><br>
+▪ 🚶星巴克-新竹州圖門市：<a href="https://www.google.com/maps?q=星巴克-新竹州圖門市" target="_blank">地圖</a>`
         },
         {
           q: "咖啡☕和下午茶推薦？",
@@ -214,24 +214,24 @@
 ▪ 🚶星巴克-新竹州圖門市：<a href="https://www.google.com/maps?q=星巴克-新竹州圖門市" target="_blank">地圖</a><br>
 ▪ 🚶九幕咖啡：<a href="https://www.google.com/maps?q=九幕咖啡" target="_blank">地圖</a><br>
 ▪ 🚶MANO MANO | 新州屋門市：<a href="https://www.google.com/maps?q=MANO MANO | 新州屋門市" target="_blank">地圖</a><br>
-▪ 🚶種甜：<a href="https://www.google.com/maps?q=種甜" target="_blank">地圖</a><br>
+▪ 種甜：<a href="https://www.google.com/maps?q=種甜" target="_blank">地圖</a><br>
 ▪ 一想一響咖啡：<a href="https://www.google.com/maps?q=一想一響咖啡" target="_blank">地圖</a><br>
 ▪ 李克承博士故居 a-moom：<a href="https://www.google.com/maps?q=李克承博士故居 a-moom(新竹市)" target="_blank">地圖</a><br>
 ▪ 春室 SPRING POOL GLASS STUDIO + The POOL：<a href="https://www.google.com/maps?q=春室 SPRING POOL GLASS STUDIO + The POOL" target="_blank">地圖</a><br>
 ▪ Louisa Coffee 路易莎咖啡 (新竹公園門市)：<a href="https://www.google.com/maps?q=Louisa Coffee 路易莎咖啡  新竹東區公園路" target="_blank">地圖</a><br>
 ▪ 墨咖啡 INK COFFEE：<a href="https://www.google.com/maps?q=墨咖啡 INK COFFEE" target="_blank">地圖</a><br>
 ▪ 🚶饅饅好食：<a href="https://www.google.com/maps?q=饅饅好食" target="_blank">地圖</a><br>
-▪ 🚶一百種味道 (三民店)：<a href="https://www.google.com/maps?q=一百種味道(三民店)" target="_blank">地圖</a><br>
+▪ 一百種味道 (三民店)：<a href="https://www.google.com/maps?q=一百種味道(三民店)" target="_blank">地圖</a><br>
 ▪ 🚶夏.咖啡：<a href="https://www.google.com/maps?q=夏.咖啡 仁愛街" target="_blank">地圖</a><br>
 ▪ 🚶Float Dept.微生咖啡：<a href="https://www.google.com/maps?q=Float Dept.微生咖啡" target="_blank">地圖</a>`
         },
 {
           q: "台式餐廳推薦？",
           a: `
-▪ 🚶蔡記燒酒雞：<a href="https://www.google.com/maps?q=蔡記燒酒雞" target="_blank">地圖</a><br>
+▪ 蔡記燒酒雞：<a href="https://www.google.com/maps?q=蔡記燒酒雞" target="_blank">地圖</a><br>
 ▪ 石坊小井：<a href="https://www.google.com/maps?q=石坊小井" target="_blank">地圖</a><br>
 ▪ 🚶一二三台灣料理：<a href="https://www.google.com/maps?q=一二三台灣料理" target="_blank">地圖</a><br>
-▪ 🚶新馬辣經典麻辣鍋-新竹巨城店：<a href="https://www.google.com/maps?q=新馬辣經典麻辣鍋-新竹巨城店" target="_blank">地圖</a><br>
+▪ 新馬辣經典麻辣鍋-新竹巨城店：<a href="https://www.google.com/maps?q=新馬辣經典麻辣鍋-新竹巨城店" target="_blank">地圖</a><br>
 ▪ 漢王薑母鴨 新竹林森路：<a href="https://www.google.com/maps?q=漢王薑母鴨 新竹林森路" target="_blank">地圖</a><br>
 ▪ 鼎泰豐 新竹店：<a href="https://www.google.com/maps?q=鼎泰豐 新竹店" target="_blank">地圖</a><br>
 ▪ 🚶龍昌小館：<a href="https://www.google.com/maps?q=龍昌小館" target="_blank">地圖</a>`
@@ -258,7 +258,7 @@
           q: "🚶日式餐廳推薦？",
           a: `
 ▪ 柚子：<a href="https://www.google.com/maps?q=柚子 文化街" target="_blank">地圖</a><br>
-▪ 皿富器食 minfood：<a href="https://www.google.com/maps?q=皿富器食 minfood" target="_blank">地圖</a><br>
+▪  皿富器食 minfood：<a href="https://www.google.com/maps?q=皿富器食 minfood" target="_blank">地圖</a><br>
 ▪ 和食川上日本料理：<a href="https://www.google.com/maps?q=和食川上日本料理"_blank">地圖</a><br>
 ▪ 新橋燒肉屋：<a href="https://www.google.com/maps?q=新橋燒肉屋 府後店" target="_blank">地圖</a><br>
 ▪ 私嚐串燒：<a href="https://www.google.com/maps?q=私嚐串燒 中正店"_blank">地圖</a><br>
@@ -282,7 +282,7 @@
 ▪ 艷麗Pondok Sunny(星馬料理)：<a href="https://www.google.com/maps?q=艷麗Pondok Sunny" target="_blank">地圖</a><br>
 ▪ 🚶青丹扎西(西藏料理)東門市場店：<a href="https://www.google.com/maps?q=青丹扎西 東門市場店" target="_blank">地圖</a><br>
 ▪ El Mundo墨多：<a href="https://www.google.com/maps?q=El Mundo墨多" target="_blank">地圖</a><br>
-▪ 🚶蘇丹土耳其廚房：<a href="https://www.google.com/maps?q=蘇丹土耳其廚房" target="_blank">地圖</a><br>
+▪ 蘇丹土耳其廚房：<a href="https://www.google.com/maps?q=蘇丹土耳其廚房" target="_blank">地圖</a><br>
 ▪ 🚶東京純豆腐新竹SOGO店(韓式)：<a href="https://www.google.com/maps?q=東京純豆腐Tokyo Sundubu 新竹SOGO店" target="_blank">地圖</a><br>
 ▪ 🚶姜滿堂존맛탱 新竹巨城店：<a href="https://www.google.com/maps?q=姜滿堂존맛탱 新竹巨城店" target="_blank">地圖</a><br>
 ▪ 達達印度料理：<a href="https://www.google.com/maps?q=達達印度料理(新竹店)(原 印度小鎮)Burans Indian Kitchen in Hsinchu (Indian Town)" target="_blank">地圖</a><br>
@@ -301,21 +301,21 @@
         {
           q: "🚶推薦小吃？",
           a: `
-▪ 喜劇收場(漢堡)：<a href="https://www.google.com/maps?q=喜劇收場(漢堡)" target="_blank">地圖</a><br>
-▪ 戲棚下Under Six Pound炸雞：<a href="https://www.google.com/maps?q=戲棚下Under Six Pound炸雞" target="_blank">地圖</a><br>
-▪ 覓雪Mixshare手作雪花冰：<a href="https://www.google.com/maps?q=覓雪Mixshare手作雪花冰" target="_blank">地圖</a><br>
+▪ 🚶喜劇收場(漢堡)：<a href="https://www.google.com/maps?q=喜劇收場(漢堡)" target="_blank">地圖</a><br>
+▪ 🚶戲棚下Under Six Pound炸雞：<a href="https://www.google.com/maps?q=戲棚下Under Six Pound炸雞" target="_blank">地圖</a><br>
+▪ 🚶覓雪Mixshare手作雪花冰：<a href="https://www.google.com/maps?q=覓雪Mixshare手作雪花冰" target="_blank">地圖</a><br>
 ▪ 白色麥芽餅茯苓糕（米滋食舖）：<a href="https://www.google.com/maps?q=白色麥芽餅茯苓糕（米滋食舖）" target="_blank">地圖</a><br>
-▪ 好豆味冰沙豆花：<a href="https://www.google.com/maps?q=好豆味冰沙豆花 勝利路" target="_blank">地圖</a><br>
+▪ 🚶好豆味冰沙豆花：<a href="https://www.google.com/maps?q=好豆味冰沙豆花 勝利路" target="_blank">地圖</a><br>
 ▪ 山田麻糬製造所：<a href="https://www.google.com/maps?q=山田麻糬製造所" target="_blank">地圖</a><br>
 ▪ 原夜市鴨肉麵：<a href="https://www.google.com/maps?q=原夜市鴨肉麵 中央路" target="_blank">地圖</a><br>
 ▪ 🚗薪石窯柴燒窯烤麵包：<a href="https://www.google.com/maps?q=薪石窯柴燒窯烤麵包" target="_blank">地圖</a><br>
 ▪ 廟口鴨香飯：<a href="https://www.google.com/maps?q=廟口鴨香飯 中山路" target="_blank">地圖</a>`
         },
         {
-          q: "🚶伴手禮🎁推薦？",
+          q: "伴手禮🎁推薦？",
           a: `
 ▪ 福源花生醬：<a href="https://www.google.com/maps?q=福源花生醬 新竹市東區東大路一段" target="_blank">地圖</a><br>
-▪ 新復珍商行(竹塹餅)：<a href="https://www.google.com/maps?q=新復珍商行" target="_blank">地圖</a><br>
+▪ 🚶新復珍商行(竹塹餅)：<a href="https://www.google.com/maps?q=新復珍商行" target="_blank">地圖</a><br>
 ▪ 淵明餅舖(水蒸蛋糕)：<a href="https://www.google.com/maps?q=淵明餅舖" target="_blank">地圖</a><br>
 ▪ 🚗德龍水潤餅：<a href="https://www.google.com/maps?q=德龍水潤餅" target="_blank">地圖</a><br>
 ▪ 進益貢丸：<a href="https://www.google.com/maps?q=進益貢丸新竹市北區北門街"_blank">地圖</a><br>
@@ -329,7 +329,7 @@
         },
        
         {
-          q: "Historical sites and attractions near the hotel",
+          q: "🚶Historical sites and attractions near the hotel",
           a: `
 ▪ Hsinchu State Library: <a href="https://www.google.com/maps?q=新竹州圖書館" target="_blank">Map</a><br>
 ▪ East Gate Yingxi Gate: <a href="https://www.google.com/maps?q=東門迎曦門" target="_blank">Map</a><br>
@@ -345,18 +345,18 @@
         },
          {
           q: "Nearby Night Markets",
-          a:  `▪ Daily – Chenghuang Temple Night Market – <a href="https://www.google.com/maps?q=新竹市城隍廟夜市" target="_blank">Map</a><br>
-           ▪ Tue & Thu – Hsinchu Back Station Night Market: <a href="https://www.google.com/maps?q=新竹後站夜市"  target="_blank">Map</a><br>
+          a:  `▪ 🚶Daily – Chenghuang Temple Night Market – <a href="https://www.google.com/maps?q=新竹市城隍廟夜市" target="_blank">Map</a><br>
+           ▪ 🚶Tue & Thu – Hsinchu Back Station Night Market: <a href="https://www.google.com/maps?q=新竹後站夜市"  target="_blank">Map</a><br>
           ▪ Wed & Fri – Shulintou Night Market: <a href="https://www.google.com/maps?q=樹林頭夜市" target="_blank">Map</a><br>
             ▪ Saturday and Sunday 11:00~19:00：Holiday Flower Market：<a href="https://www.google.com/maps?q=新竹假日花市" target="_blank">Map</a>`
         },
          {
           q: "Recommended Tourist Attractions in Hsinchu",
           a: `
-▪ Hsinchu Chenghuang Temple：<a href="https://www.google.com/maps?q=新竹都城隍廟" target="_blank">Map</a><br>
-▪ Hsinchu Park：<a href="https://www.google.com/maps?q=新竹公園 都會公園" target="_blank">Map</a><br>
-▪ Hsinchu City Zoo：<a href="https://www.google.com/maps?q=新竹市立動物園" target="_blank">Map</a><br>
-▪ Hsinchu Glass Museum：<a href="https://www.google.com/maps?q=新竹市玻璃工藝博物館" target="_blank">Map</a><br>
+▪ 🚶Hsinchu Chenghuang Temple：<a href="https://www.google.com/maps?q=新竹都城隍廟" target="_blank">Map</a><br>
+▪ 🚶Hsinchu Park：<a href="https://www.google.com/maps?q=新竹公園 都會公園" target="_blank">Map</a><br>
+▪ 🚶Hsinchu City Zoo：<a href="https://www.google.com/maps?q=新竹市立動物園" target="_blank">Map</a><br>
+▪ 🚶Hsinchu Glass Museum：<a href="https://www.google.com/maps?q=新竹市玻璃工藝博物館" target="_blank">Map</a><br>
 ▪ General’s Village：<a href="https://www.google.com/maps?q=將軍村" target="_blank">Map</a><br>
 ▪ Hsinchu Waterway Intake Exhibition Hall (Splash pools closed for cleaning and disinfection on Mondays and Fridays)：<a href="https://www.google.com/maps?q=市定古蹟-新竹水道取水口展示館(周一及周五戲水池清潔消毒不開放)" target="_blank">Map</a><br>
 ▪ Qingcao Lake (Green Grass Lake)：<a href="https://www.google.com/maps?q=青草湖" target="_blank">Map</a><br>
@@ -367,27 +367,27 @@
 ★ Hsinchu City Travel Info：<a href="https://eng.taiwan.net.tw/m1.aspx?sno=0002109" target="_blank">Tourism Administration</a>`
         },
         {
-          q: "Temple attractions near the hotel",
+          q: "🚶Temple attractions near the hotel",
           a: `
 ▪ Dongning Temple: <a href="https://www.google.com/maps?q=東寧宮" target="_blank">Map</a><br>
 ▪ Hsinchu City God Temple: <a href="https://www.google.com/maps?q=新竹都城隍廟" target="_blank">Map</a><br>
 ▪ Hsinchu Zhulin Temple：<a href="https://www.google.com/maps?q=新竹竹蓮寺" target="_blank">Map</a><br>
 ▪ Changhe Temple: <a href="https://www.google.com/maps?q=新竹長和宮" target="_blank">Map</a><br>
-▪ Hsinchu Tiangong Temple ：<a href="https://www.google.com/maps?q=新竹天公壇" target="_blank">Map</a><br>
+▪ 🚗Hsinchu Tiangong Temple ：<a href="https://www.google.com/maps?q=新竹天公壇" target="_blank">Map</a><br>
 ▪ Guandi Temple: <a href="https://www.google.com/maps?q=新竹關帝廟 南門街" target="_blank">Map</a>`
         },
         {
-          q: "Nearby shopping malls",
+          q: "🚶Nearby shopping malls",
           a: `
-▪ Big City Shopping Center: <a href="https://www.google.com/maps?q=巨城購物中心" target="_blank">Map</a><br>
+▪ 🚶Big City Shopping Center: <a href="https://www.google.com/maps?q=巨城購物中心" target="_blank">Map</a><br>
 ▪ Taroko Nanya Plaza：<a href="https://www.google.com/maps?q=大魯閣湳雅廣場" target="_blank">Map</a><br>
 ▪ Far Eastern Department Store Hsinchu: <a href="https://www.google.com/maps?q=新竹大遠百" target="_blank">Map</a>`
         },
         {
-          q: "Nearby YouBike rental station🚴",
+          q: "🚶Nearby YouBike rental station🚴",
           a: `
          ⚠️Before signing up, please prepare the following. <a href="https://en.youbike.com.tw/region/main/register/" target="_blank"> YouBike official website</a><br>
-▪ Hsinchu City Hall Ubike Station: <a href="https://www.google.com/maps?q=YouBike 新竹市政府" target="_blank">Map</a>`
+▪ 🚶Hsinchu City Hall Ubike Station: <a href="https://www.google.com/maps?q=YouBike 新竹市政府" target="_blank">Map</a>`
         },
          {
           q: "Taiwan Railways Administration (TRA)🚆<br>・Airport MRT🚆<br>・High Speed Rail(HSR)🚄<br>・Taoyuan International Airport(TPE)✈️<br>・Taipei Songshan Airport(TSA)✈️",
@@ -407,7 +407,7 @@
         },
         
         {
-          q: "Recommended nearby breakfast shops",
+          q: "🚶Recommended nearby breakfast shops",
           a: `
 ▪ Garlic & Jazz Breakfast: <a href="https://www.google.com/maps?q=義式屋古拉爵 新竹迎曦店" target="_blank">Map</a><br>
 ▪ Shandong Breakfast - Xiao Long Bao (steamed soup dumplings), Taiwanese egg crepes: <a href="https://www.google.com/maps?q=眷村龎" target="_blank">Map</a><br>
@@ -416,48 +416,48 @@
         {
           q: "Coffee☕ and afternoon tea recommendations?",
           a: `
-▪ Starbucks - Hsinchu State Library Store: <a href="https://www.google.com/maps?q=星巴克-新竹州圖門市" target="_blank">Map</a><br>
-▪ Jiumu Coffee: <a href="https://www.google.com/maps?q=九幕咖啡" target="_blank">Map</a><br>
-▪ MANO MANO：<a href="https://www.google.com/maps?q=MANO MANO | 新州屋門市" target="_blank">Map</a><br>
-▪ Seed Sweet Coffee(No Fixed Holidays)：<a href="https://www.google.com/maps?q=種甜" target="_blank">Map</a><br>
+▪ 🚶Starbucks - Hsinchu State Library Store: <a href="https://www.google.com/maps?q=星巴克-新竹州圖門市" target="_blank">Map</a><br>
+▪ 🚶Jiumu Coffee: <a href="https://www.google.com/maps?q=九幕咖啡" target="_blank">Map</a><br>
+▪ 🚶MANO MANO：<a href="https://www.google.com/maps?q=MANO MANO | 新州屋門市" target="_blank">Map</a><br>
+▪ 🚶Seed Sweet Coffee(No Fixed Holidays)：<a href="https://www.google.com/maps?q=種甜" target="_blank">Map</a><br>
 ▪ ReEcho Coffee：<a href="https://www.google.com/maps?q=一想一響咖啡" target="_blank">Map</a><br>
 ▪ Former Residence of Dr. Lee Ko-Cheng (A-Moom)：<a href="https://www.google.com/maps?q=李克承博士故居 a-moom(新竹市)" target="_blank">Map</a><br>
 ▪ Spring Room SPRING POOL GLASS STUDIO + The POOL：<a href="https://www.google.com/maps?q=春室 SPRING POOL GLASS STUDIO + The POOL" target="_blank">Map</a><br>
 ▪ Louisa Coffee (Hsinchu Park Branch)：<a href="https://www.google.com/maps?q=Louisa Coffee 路易莎咖啡  新竹東區公園路" target="_blank">Map</a><br>
 ▪ Ink Coffee：<a href="https://www.google.com/maps?q=墨咖啡 INK COFFEE" target="_blank">Map</a><br>
-▪ Manman Delicious: <a href="https://www.google.com/maps?q=饅饅好食" target="_blank">Map</a><br>
-▪ Hundred Flavors (Sanmin Store): <a href="https://www.google.com/maps?q=一百種味道(三民店)" target="_blank">Map</a><br>
-▪ Summer Coffee: <a href="https://www.google.com/maps?q=夏.咖啡 仁愛街" target="_blank">Map</a><br>
-▪ Float Dept. Micro Roastery: <a href="https://www.google.com/maps?q=Float Dept.微生咖啡" target="_blank">Map</a>`
+▪ 🚶Manman Delicious: <a href="https://www.google.com/maps?q=饅饅好食" target="_blank">Map</a><br>
+▪ 🚶Hundred Flavors (Sanmin Store): <a href="https://www.google.com/maps?q=一百種味道(三民店)" target="_blank">Map</a><br>
+▪ 🚶Summer Coffee: <a href="https://www.google.com/maps?q=夏.咖啡 仁愛街" target="_blank">Map</a><br>
+▪ 🚶Float Dept. Micro Roastery: <a href="https://www.google.com/maps?q=Float Dept.微生咖啡" target="_blank">Map</a>`
         },
 {
           q: "Taiwanese Restaurants Recommended ？",
           a: `
-▪ Tsai Ji Sesame Oil Chicken：<a href="https://www.google.com/maps?q=蔡記燒酒雞" target="_blank">Map</a><br>
+▪ 🚶Tsai Ji Sesame Oil Chicken：<a href="https://www.google.com/maps?q=蔡記燒酒雞" target="_blank">Map</a><br>
 ▪ Shifang Xiaojing：<a href="https://www.google.com/maps?q=石坊小井" target="_blank">Map</a><br>
-▪ 123 Taiwanese Cuisine：<a href="https://www.google.com/maps?q=一二三台灣料理" target="_blank">Map</a><br>
-▪ Xin Mala Classic Hot Pot(Spicy Sichuan Hot Pot)：<a href="https://www.google.com/maps?q=新馬辣經典麻辣鍋-新竹巨城店" target="_blank">Map</a><br>
+▪ 🚶123 Taiwanese Cuisine：<a href="https://www.google.com/maps?q=一二三台灣料理" target="_blank">Map</a><br>
+▪ 🚶Xin Mala Classic Hot Pot(Spicy Sichuan Hot Pot)：<a href="https://www.google.com/maps?q=新馬辣經典麻辣鍋-新竹巨城店" target="_blank">Map</a><br>
 ▪ Han Wang Ginger Duck：<a href="https://www.google.com/maps?q=漢王薑母鴨 新竹林森路" target="_blank">Map</a><br>
 ▪ Din Tai Fung(Soup Dumplings)：<a href="https://www.google.com/maps?q=鼎泰豐 新竹店" target="_blank">Map</a><br>
-▪ Long Chang Bistro：<a href="https://www.google.com/maps?q=龍昌小館" target="_blank">Map</a>`
+▪ 🚶Long Chang Bistro：<a href="https://www.google.com/maps?q=龍昌小館" target="_blank">Map</a>`
         },
         
         {
           q: "Chinese restaurants recommendations?",
           a: `
-▪ Vegetable Garden Shanghai Restaurant: <a href="https://www.google.com/maps?q=菜園上海餐廳" target="_blank">Map</a><br>
-▪ Enjoy Duck Roasted Duck: <a href="https://www.google.com/maps?q=享鴨 烤鴨與中華料理 新竹北大店" target="_blank">Map</a><br>
-▪ Xishi Shantou Restaurant: <a href="https://www.google.com/maps?q=西市汕頭館 北大店" target="_blank">Map</a><br>
-▪ New Bridge Alley: <a href="https://www.google.com/maps?q=新橋弄堂"target="_blank">Map</a>`
+▪ 🚶Vegetable Garden Shanghai Restaurant: <a href="https://www.google.com/maps?q=菜園上海餐廳" target="_blank">Map</a><br>
+▪ 🚶Enjoy Duck Roasted Duck: <a href="https://www.google.com/maps?q=享鴨 烤鴨與中華料理 新竹北大店" target="_blank">Map</a><br>
+▪ 🚶Xishi Shantou Restaurant: <a href="https://www.google.com/maps?q=西市汕頭館 北大店" target="_blank">Map</a><br>
+▪ 🚶New Bridge Alley: <a href="https://www.google.com/maps?q=新橋弄堂"target="_blank">Map</a>`
         },
         {
           q: "Western restaurants recommendations?",
           a: `
-▪ La Miette Kitchen: <a href="https://www.google.com/maps?q=冪2 La Miette Kitchen" target="_blank">Map</a><br>
-▪ TABLE JOE Kitchen: <a href="https://www.google.com/maps?q=TABLE JOE 喬桌子廚房" target="_blank">Map</a><br>
-▪ Stanley American Steakhouse:<a href="https://www.google.com/maps?q=史坦利美式牛排 巨城" target="_blank">Map</a><br>
-▪ EISEN BISTRO：<a href="https://www.google.com/maps?q=EISEN BISTRO 艾昇小館" target="_blank">Map</a><br>
-▪ Jinse Sanmai Park15, Hsinchu Big City: <a href="https://www.google.com/maps?q=金色三麥 新竹巨城店PARK15" target="_blank">Map</a>`
+▪ 🚶La Miette Kitchen: <a href="https://www.google.com/maps?q=冪2 La Miette Kitchen" target="_blank">Map</a><br>
+▪ 🚶TABLE JOE Kitchen: <a href="https://www.google.com/maps?q=TABLE JOE 喬桌子廚房" target="_blank">Map</a><br>
+▪ 🚶Stanley American Steakhouse:<a href="https://www.google.com/maps?q=史坦利美式牛排 巨城" target="_blank">Map</a><br>
+▪ 🚶EISEN BISTRO：<a href="https://www.google.com/maps?q=EISEN BISTRO 艾昇小館" target="_blank">Map</a><br>
+▪ 🚶Jinse Sanmai Park15, Hsinchu Big City: <a href="https://www.google.com/maps?q=金色三麥 新竹巨城店PARK15" target="_blank">Map</a>`
         },
         {
           q: "Japanese restaurants recommendations?",
