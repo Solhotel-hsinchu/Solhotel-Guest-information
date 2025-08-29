@@ -403,7 +403,7 @@
           q: "SOL Hotel → Taoyuan International Airport?　",
           a: `
 ▪ Taiwan High Speed Rail(HSR)：Hsinchu HSR → Taoyuan HSR → Airport MRT → Airport ⏱ About 70–80 min 💰About NT$300–500<br>
-▪ Taxi：SOL Hotel → Taoyuan International Airport ⏱ About 50–60 min 💰About NT$1600`
+▪ Taxi：SOL Hotel → Taoyuan International Airport ⏱ About 50–60 min 💰About NT$1430 ~ NT$1600`
         },
         
         {
@@ -607,14 +607,14 @@
           q: "SOLホテル → 桃園国際空港?　",
           a: `
 ▪ 台湾高速鉄道(HSR)：新竹高鉄駅 → 桃園高鉄駅 → 空港MRT → 桃園空港 ⏱ 約70～80分 💰約NT$300-$500<br>
-▪ タクシー：ホテル → 桃園国際空港 ⏱ 約50～60分 💰約NT$1600`
+▪ タクシー：ホテル → 桃園国際空港 ⏱ 約50～60分 💰約NT$1430 ~ NT$1600`
         },
   {
           q: "SOLホテル → 台北松山空港?　",
           a: `
 ▪ 台湾高速鉄道(HSR)+MRT：新竹高鉄駅 → 台北駅 → MRT板南線（青）→ 忠孝復興駅 → MRT文湖線（茶）に乗換 → 松山空港 ⏱ 約90～100分 💰約NT$300-$500<br>
 ▪ 台湾鉄路株式会社(TRA)+MRT：新竹駅（台鉄）→ 台北駅 → MRT板南線（青）→ 忠孝復興駅 → MRT文湖線（茶）に乗換 → 松山空港 ⏱ 約110分 💰約NT$200-$300<br>
-▪ タクシー：ホテル → 松山空港 ⏱ 約90分 💰約NT$2800` 
+▪ タクシー：ホテル → 松山空港 ⏱ 約90分 💰約NT$2420 ~ NT$2800` 
         },        
         {
           q: "近隣のおすすめ朝食店",
